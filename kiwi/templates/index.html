@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% block content %}
+<section id="content">
+    {% block content_title %}
+        <div id="edito">
+            <img class="edito-img" src="{{ SITEURL }}/{{KIWI_EDITO_IMAGE_LINK}}" alt="{{KIWI_EDITO_IMAGE_ALT}}" />
+            <div class="edito-content">
+                <p class="edito-title">{{KIWI_EDITO_TITLE}}</p>
+                <p class="edito-text">{{KIWI_EDITO_TEXT}}</p>
+            </div>
+        </div>
+    {% endblock %}
+
+    <div id="post-list">
+    {% for article in articles_page.object_list %}
+        <article class="h-entry">
+            <header> 
+                <h2 class="p-name">
+                    <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
+                        {{ article.title }}
+                    </a>
+                </h2>
+                <div class="post-info">
+                    <abbr class="published" title="{{ article.date.isoformat() }}"> {{ article.locale_date }} </abbr>
+                    <address class="vcard author">By
+                        {% for author in article.authors %}
+                            {{ author }}
+                        {% endfor %}
+                    </address>
+                </div>
+            </header>
+            <div class="entry-content"> {{ article.summary }} </div><!-- /.entry-content -->
+            <a href="{{ SITEURL }}/{{ article.url }}" class="to-article">LIRE LA SUITE ></a>
+        </article>
+    {% endfor %}
+    
+        <div id="paginator">
+            {% if articles_page.has_other_pages() %}
+                {% include 'pagination.html' %}
+            {% endif %}
+        </div>
+        
+    
+    </div>
+
+</section><!-- /#content -->
+{% endblock content %}
