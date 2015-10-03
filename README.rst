@@ -1,1 +1,1 @@
-Luc Libralesso personal blog
+Luc Libralesso personal blog (in French)
