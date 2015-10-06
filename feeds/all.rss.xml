@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>http://librallu.github.io/</link><description></description><atom:link href="http://librallu.github.io/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 05 Oct 2015 22:00:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 1</title><link>http://librallu.github.io/blender-challenge-01.html</link><description>&lt;p&gt;Pour ce premier jour, j'ai choisi de modéliser des sapins en low poly.
 On arrive au résultat suivant :&lt;/p&gt;
-&lt;img alt="rendu jour01" src="http://librallu.github.io/render/day01.png" style="width: 50%;" /&gt;
+&lt;img alt="rendu jour01" class="align-center" src="http://librallu.github.io/render/day01.png" style="width: 50%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
 &lt;a class="reference external" href="/blend/day01.blend"&gt;day01.blend&lt;/a&gt;&lt;/p&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Luc Libralesso</dc:creator><pubDate>Mon, 05 Oct 2015 22:00:00 -0400</pubDate><guid>tag:librallu.github.io,2015-10-05:blender-challenge-01.html</guid><category>blender</category><category>low-poly</category><category>blog</category></item><item><title>Blender Challenge Intro</title><link>http://librallu.github.io/blender-challenge-intro.html</link><description>&lt;p&gt;Ça fait déjà un petit moment que j'ai choisi de me pencher sur la
