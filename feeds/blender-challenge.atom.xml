@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="http://librallu.github.io/" rel="alternate"></link><link href="http://librallu.github.io/feeds/blender-challenge.atom.xml" rel="self"></link><id>http://librallu.github.io/</id><updated>2015-10-04T15:00:00-04:00</updated><entry><title>Blender Challenge Intro</title><link href="http://librallu.github.io/blender-challenge-intro.html" rel="alternate"></link><updated>2015-10-04T15:00:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:librallu.github.io,2015-10-04:blender-challenge-intro.html</id><summary type="html">&lt;p&gt;Ça fait déjà un petit moment que j'ai choisi de me pencher sur la
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="http://librallu.github.io/" rel="alternate"></link><link href="http://librallu.github.io/feeds/blender-challenge.atom.xml" rel="self"></link><id>http://librallu.github.io/</id><updated>2015-10-05T22:00:00-04:00</updated><entry><title>Blender Challenge Jour 1</title><link href="http://librallu.github.io/blender-challenge-01.html" rel="alternate"></link><updated>2015-10-05T22:00:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:librallu.github.io,2015-10-05:blender-challenge-01.html</id><summary type="html">&lt;p&gt;Pour ce premier jour, j'ai choisi de modéliser des sapins en low poly.
+On arrive au résultat suivant :&lt;/p&gt;
+&lt;img alt="rendu jour01" src="http://librallu.github.io/render/day01.png" /&gt;
+&lt;p&gt;Le .blend est disponible ici :&lt;/p&gt;
+&lt;img alt="fichier blend jour01" src="http://librallu.github.io/blend/day01.blend" /&gt;
+</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Intro</title><link href="http://librallu.github.io/blender-challenge-intro.html" rel="alternate"></link><updated>2015-10-04T15:00:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:librallu.github.io,2015-10-04:blender-challenge-intro.html</id><summary type="html">&lt;p&gt;Ça fait déjà un petit moment que j'ai choisi de me pencher sur la
 modélisation 3D pour le jeu vidéo. En fait, j'ai toujours envie
 de créer mes petits univers 3D, mais sans forcément prendre le temps
 de le faire.
