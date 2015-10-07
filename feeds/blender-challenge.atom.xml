@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="http://librallu.github.io/" rel="alternate"></link><link href="http://librallu.github.io/feeds/blender-challenge.atom.xml" rel="self"></link><id>http://librallu.github.io/</id><updated>2015-10-06T19:45:00-04:00</updated><entry><title>Blender Challenge Jour 2</title><link href="http://librallu.github.io/blender-challenge-02.html" rel="alternate"></link><updated>2015-10-06T19:45:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:librallu.github.io,2015-10-06:blender-challenge-02.html</id><summary type="html">&lt;p&gt;Pour ce deuxième jour, j'ai choisi de modéliser un arbre pour commencer à avoir des paysages exterieurs complets.&lt;/p&gt;
 &lt;p&gt;Je me suis inspiré de ce tuto : &lt;a class="reference external" href="https://www.youtube.com/watch?v=FAk1TWgMb_s"&gt;https://www.youtube.com/watch?v=FAk1TWgMb_s&lt;/a&gt;&lt;/p&gt;
-&lt;img alt="rendu jour02" class="align-center" src="http://librallu.github.io/render/day02.png" style="width: 50%;" /&gt;
+&lt;img alt="rendu jour02" class="align-center" src="http://librallu.github.io/render/day02.png" style="width: 100%;" /&gt;
 &lt;p&gt;Et combiné avec les sapins de hier :&lt;/p&gt;
-&lt;img alt="rendu arbres et sapins" class="align-center" src="http://librallu.github.io/render/outdoor01.png" style="width: 50%;" /&gt;
+&lt;img alt="rendu arbres et sapins" class="align-center" src="http://librallu.github.io/render/outdoor01.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
 &lt;a class="reference external" href="/blend/day02.blend"&gt;day01.blend&lt;/a&gt;&lt;/p&gt;
 </summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Jour 1</title><link href="http://librallu.github.io/blender-challenge-01.html" rel="alternate"></link><updated>2015-10-05T22:00:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:librallu.github.io,2015-10-05:blender-challenge-01.html</id><summary type="html">&lt;p&gt;Pour ce premier jour, j'ai choisi de modéliser des sapins en low poly.
 On arrive au résultat suivant :&lt;/p&gt;
-&lt;img alt="rendu jour01" class="align-center" src="http://librallu.github.io/render/day01.png" style="width: 50%;" /&gt;
+&lt;img alt="rendu jour01" class="align-center" src="http://librallu.github.io/render/day01.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
 &lt;a class="reference external" href="/blend/day01.blend"&gt;day01.blend&lt;/a&gt;&lt;/p&gt;
 </summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Intro</title><link href="http://librallu.github.io/blender-challenge-intro.html" rel="alternate"></link><updated>2015-10-04T15:00:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:librallu.github.io,2015-10-04:blender-challenge-intro.html</id><summary type="html">&lt;p&gt;Ça fait déjà un petit moment que j'ai choisi de me pencher sur la
