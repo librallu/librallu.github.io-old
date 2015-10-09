@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="http://librallu.github.io/" rel="alternate"></link><link href="http://librallu.github.io/feeds/blender-challenge.atom.xml" rel="self"></link><id>http://librallu.github.io/</id><updated>2015-10-08T21:30:00-04:00</updated><entry><title>Blender Challenge Jour 4</title><link href="http://librallu.github.io/blender-challenge-04.html" rel="alternate"></link><updated>2015-10-08T21:30:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:librallu.github.io,2015-10-08:blender-challenge-04.html</id><summary type="html">&lt;p&gt;Pour faire une scène avec l'épée de hier, j'ai modélisé un tabouret qui pourra servir à meubler
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="http://librallu.github.io/" rel="alternate"></link><link href="http://librallu.github.io/feeds/blender-challenge.atom.xml" rel="self"></link><id>http://librallu.github.io/</id><updated>2015-10-09T17:15:00-04:00</updated><entry><title>Blender Challenge Jour 5</title><link href="http://librallu.github.io/blender-challenge-05.html" rel="alternate"></link><updated>2015-10-09T17:15:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:librallu.github.io,2015-10-09:blender-challenge-05.html</id><summary type="html">&lt;p&gt;Pour continuer à designer l'interieur de la taverne, j'ai modélisé une petite
+lenterne sympa.&lt;/p&gt;
+&lt;p&gt;Le rendu d'aujourd'hui :&lt;/p&gt;
+&lt;img alt="rendu jour05" class="align-center" src="http://librallu.github.io/render/day05.png" style="width: 100%;" /&gt;
+&lt;p&gt;Le .blend est disponible ici
+&lt;a class="reference external" href="/blend/day05.blend"&gt;day04.blend&lt;/a&gt;&lt;/p&gt;
+</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Jour 4</title><link href="http://librallu.github.io/blender-challenge-04.html" rel="alternate"></link><updated>2015-10-08T21:30:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:librallu.github.io,2015-10-08:blender-challenge-04.html</id><summary type="html">&lt;p&gt;Pour faire une scène avec l'épée de hier, j'ai modélisé un tabouret qui pourra servir à meubler
 des tavernes ou magasins.&lt;/p&gt;
 &lt;p&gt;Le rendu d'aujourd'hui :&lt;/p&gt;
 &lt;img alt="rendu jour04" class="align-center" src="http://librallu.github.io/render/day04.png" style="width: 100%;" /&gt;
