@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>http://librallu.github.io/</link><description></description><atom:link href="http://librallu.github.io/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 09 Oct 2015 17:15:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 5</title><link>http://librallu.github.io/blender-challenge-05.html</link><description>&lt;p&gt;Pour continuer à designer l'interieur de la taverne, j'ai modélisé une petite
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>http://librallu.github.io/</link><description></description><atom:link href="http://librallu.github.io/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 10 Oct 2015 19:00:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 6</title><link>http://librallu.github.io/blender-challenge-06.html</link><description>&lt;p&gt;J'ai eu un peu plus de temps que d'habitude, j'en ai
+donc profité pour modéliser quelque chose d'un peu plus long :
+Une taverne à laquelle j'ai rajouté quelques lenternes faites
+précédemment. Ça a demandé du boulot, mais je suis content
+du résultat&lt;/p&gt;
+&lt;p&gt;Le rendu d'aujourd'hui :&lt;/p&gt;
+&lt;img alt="rendu jour06" class="align-center" src="http://librallu.github.io/render/day06.png" style="width: 100%;" /&gt;
+&lt;p&gt;Le .blend est disponible ici
+&lt;a class="reference external" href="/blend/day06.blend"&gt;day06.blend&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Luc Libralesso</dc:creator><pubDate>Sat, 10 Oct 2015 19:00:00 -0400</pubDate><guid>tag:librallu.github.io,2015-10-10:blender-challenge-06.html</guid><category>blender</category><category>low-poly</category><category>blog</category></item><item><title>Blender Challenge Jour 5</title><link>http://librallu.github.io/blender-challenge-05.html</link><description>&lt;p&gt;Pour continuer à designer l'interieur de la taverne, j'ai modélisé une petite
 lenterne sympa.&lt;/p&gt;
 &lt;p&gt;Le rendu d'aujourd'hui :&lt;/p&gt;
 &lt;img alt="rendu jour05" class="align-center" src="http://librallu.github.io/render/day05.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
-&lt;a class="reference external" href="/blend/day05.blend"&gt;day04.blend&lt;/a&gt;&lt;/p&gt;
+&lt;a class="reference external" href="/blend/day05.blend"&gt;day05.blend&lt;/a&gt;&lt;/p&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Luc Libralesso</dc:creator><pubDate>Fri, 09 Oct 2015 17:15:00 -0400</pubDate><guid>tag:librallu.github.io,2015-10-09:blender-challenge-05.html</guid><category>blender</category><category>low-poly</category><category>blog</category></item><item><title>Blender Challenge Jour 4</title><link>http://librallu.github.io/blender-challenge-04.html</link><description>&lt;p&gt;Pour faire une scène avec l'épée de hier, j'ai modélisé un tabouret qui pourra servir à meubler
 des tavernes ou magasins.&lt;/p&gt;
 &lt;p&gt;Le rendu d'aujourd'hui :&lt;/p&gt;
