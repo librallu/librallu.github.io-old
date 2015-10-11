@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>http://librallu.github.io/</link><description></description><atom:link href="http://librallu.github.io/feeds/luc-libralesso.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 10 Oct 2015 19:00:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 6</title><link>http://librallu.github.io/blender-challenge-06.html</link><description>&lt;p&gt;J'ai eu un peu plus de temps que d'habitude, j'en ai
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>http://librallu.github.io/</link><description></description><atom:link href="http://librallu.github.io/feeds/luc-libralesso.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 11 Oct 2015 17:00:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 7</title><link>http://librallu.github.io/blender-challenge-07.html</link><description>&lt;p&gt;Pour continuer sur mon auberge, je rajoute une texture de pierre
+pour les murs complètement tilable :&lt;/p&gt;
+&lt;p&gt;La texture produite :&lt;/p&gt;
+&lt;img alt="texture pierre 1" class="align-center" src="http://librallu.github.io/render/stone1.png" style="width: 100%;" /&gt;
+&lt;p&gt;Le rendu d'aujourd'hui avec la texture :&lt;/p&gt;
+&lt;img alt="rendu jour07" class="align-center" src="http://librallu.github.io/render/day07.png" style="width: 100%;" /&gt;
+&lt;p&gt;Le .blend est disponible ici
+&lt;a class="reference external" href="/blend/day07.blend"&gt;day07.blend&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Luc Libralesso</dc:creator><pubDate>Sun, 11 Oct 2015 17:00:00 -0400</pubDate><guid>tag:librallu.github.io,2015-10-11:blender-challenge-07.html</guid><category>blender</category><category>low-poly</category><category>blog</category></item><item><title>Blender Challenge Jour 6</title><link>http://librallu.github.io/blender-challenge-06.html</link><description>&lt;p&gt;J'ai eu un peu plus de temps que d'habitude, j'en ai
 donc profité pour modéliser quelque chose d'un peu plus long :
 Une taverne à laquelle j'ai rajouté quelques lenternes faites
 précédemment. Ça a demandé du boulot, mais je suis content

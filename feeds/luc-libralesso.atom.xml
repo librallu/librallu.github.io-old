@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="http://librallu.github.io/" rel="alternate"></link><link href="http://librallu.github.io/feeds/luc-libralesso.atom.xml" rel="self"></link><id>http://librallu.github.io/</id><updated>2015-10-10T19:00:00-04:00</updated><entry><title>Blender Challenge Jour 6</title><link href="http://librallu.github.io/blender-challenge-06.html" rel="alternate"></link><updated>2015-10-10T19:00:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:librallu.github.io,2015-10-10:blender-challenge-06.html</id><summary type="html">&lt;p&gt;J'ai eu un peu plus de temps que d'habitude, j'en ai
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="http://librallu.github.io/" rel="alternate"></link><link href="http://librallu.github.io/feeds/luc-libralesso.atom.xml" rel="self"></link><id>http://librallu.github.io/</id><updated>2015-10-11T17:00:00-04:00</updated><entry><title>Blender Challenge Jour 7</title><link href="http://librallu.github.io/blender-challenge-07.html" rel="alternate"></link><updated>2015-10-11T17:00:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:librallu.github.io,2015-10-11:blender-challenge-07.html</id><summary type="html">&lt;p&gt;Pour continuer sur mon auberge, je rajoute une texture de pierre
+pour les murs complètement tilable :&lt;/p&gt;
+&lt;p&gt;La texture produite :&lt;/p&gt;
+&lt;img alt="texture pierre 1" class="align-center" src="http://librallu.github.io/render/stone1.png" style="width: 100%;" /&gt;
+&lt;p&gt;Le rendu d'aujourd'hui avec la texture :&lt;/p&gt;
+&lt;img alt="rendu jour07" class="align-center" src="http://librallu.github.io/render/day07.png" style="width: 100%;" /&gt;
+&lt;p&gt;Le .blend est disponible ici
+&lt;a class="reference external" href="/blend/day07.blend"&gt;day07.blend&lt;/a&gt;&lt;/p&gt;
+</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Jour 6</title><link href="http://librallu.github.io/blender-challenge-06.html" rel="alternate"></link><updated>2015-10-10T19:00:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:librallu.github.io,2015-10-10:blender-challenge-06.html</id><summary type="html">&lt;p&gt;J'ai eu un peu plus de temps que d'habitude, j'en ai
 donc profité pour modéliser quelque chose d'un peu plus long :
 Une taverne à laquelle j'ai rajouté quelques lenternes faites
 précédemment. Ça a demandé du boulot, mais je suis content
