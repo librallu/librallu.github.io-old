@@ -1,50 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="http://librallu.github.io/" rel="alternate"></link><link href="http://librallu.github.io/feeds/all.atom.xml" rel="self"></link><id>http://librallu.github.io/</id><updated>2015-10-11T17:00:00-04:00</updated><entry><title>Blender Challenge Jour 7</title><link href="http://librallu.github.io/blender-challenge-07.html" rel="alternate"></link><updated>2015-10-11T17:00:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:librallu.github.io,2015-10-11:blender-challenge-07.html</id><summary type="html">&lt;p&gt;Pour continuer sur mon auberge, je rajoute une texture de pierre
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-10-11T18:00:00-04:00</updated><entry><title>Commentaires fonctionnels sur le blog !</title><link href="/blog-commentaires.html" rel="alternate"></link><updated>2015-10-11T18:00:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-11:blog-commentaires.html</id><summary type="html">&lt;p&gt;Ça y'est, les commentaires sont disponibles sur le blog.
+Il est maintenant possible de commenter les articles via disqus.&lt;/p&gt;
+</summary><category term="blog"></category><category term="mise à jour"></category></entry><entry><title>Blender Challenge Jour 7</title><link href="/blender-challenge-07.html" rel="alternate"></link><updated>2015-10-11T17:00:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-11:blender-challenge-07.html</id><summary type="html">&lt;p&gt;Pour continuer sur mon auberge, je rajoute une texture de pierre
 pour les murs complètement tilable :&lt;/p&gt;
 &lt;p&gt;La texture produite :&lt;/p&gt;
-&lt;img alt="texture pierre 1" class="align-center" src="http://librallu.github.io/render/stone1.png" style="width: 100%;" /&gt;
+&lt;img alt="texture pierre 1" class="align-center" src="/render/stone1.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le rendu d'aujourd'hui avec la texture :&lt;/p&gt;
-&lt;img alt="rendu jour07" class="align-center" src="http://librallu.github.io/render/day07.png" style="width: 100%;" /&gt;
+&lt;img alt="rendu jour07" class="align-center" src="/render/day07.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
 &lt;a class="reference external" href="/blend/day07.blend"&gt;day07.blend&lt;/a&gt;&lt;/p&gt;
-</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Jour 6</title><link href="http://librallu.github.io/blender-challenge-06.html" rel="alternate"></link><updated>2015-10-10T19:00:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:librallu.github.io,2015-10-10:blender-challenge-06.html</id><summary type="html">&lt;p&gt;J'ai eu un peu plus de temps que d'habitude, j'en ai
+</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Jour 6</title><link href="/blender-challenge-06.html" rel="alternate"></link><updated>2015-10-10T19:00:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-10:blender-challenge-06.html</id><summary type="html">&lt;p&gt;J'ai eu un peu plus de temps que d'habitude, j'en ai
 donc profité pour modéliser quelque chose d'un peu plus long :
 Une taverne à laquelle j'ai rajouté quelques lenternes faites
 précédemment. Ça a demandé du boulot, mais je suis content
 du résultat&lt;/p&gt;
 &lt;p&gt;Le rendu d'aujourd'hui :&lt;/p&gt;
-&lt;img alt="rendu jour06" class="align-center" src="http://librallu.github.io/render/day06.png" style="width: 100%;" /&gt;
+&lt;img alt="rendu jour06" class="align-center" src="/render/day06.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
 &lt;a class="reference external" href="/blend/day06.blend"&gt;day06.blend&lt;/a&gt;&lt;/p&gt;
-</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Jour 5</title><link href="http://librallu.github.io/blender-challenge-05.html" rel="alternate"></link><updated>2015-10-09T17:15:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:librallu.github.io,2015-10-09:blender-challenge-05.html</id><summary type="html">&lt;p&gt;Pour continuer à designer l'interieur de la taverne, j'ai modélisé une petite
+</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Jour 5</title><link href="/blender-challenge-05.html" rel="alternate"></link><updated>2015-10-09T17:15:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-09:blender-challenge-05.html</id><summary type="html">&lt;p&gt;Pour continuer à designer l'interieur de la taverne, j'ai modélisé une petite
 lenterne sympa.&lt;/p&gt;
 &lt;p&gt;Le rendu d'aujourd'hui :&lt;/p&gt;
-&lt;img alt="rendu jour05" class="align-center" src="http://librallu.github.io/render/day05.png" style="width: 100%;" /&gt;
+&lt;img alt="rendu jour05" class="align-center" src="/render/day05.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
 &lt;a class="reference external" href="/blend/day05.blend"&gt;day05.blend&lt;/a&gt;&lt;/p&gt;
-</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Jour 4</title><link href="http://librallu.github.io/blender-challenge-04.html" rel="alternate"></link><updated>2015-10-08T21:30:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:librallu.github.io,2015-10-08:blender-challenge-04.html</id><summary type="html">&lt;p&gt;Pour faire une scène avec l'épée de hier, j'ai modélisé un tabouret qui pourra servir à meubler
+</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Jour 4</title><link href="/blender-challenge-04.html" rel="alternate"></link><updated>2015-10-08T21:30:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-08:blender-challenge-04.html</id><summary type="html">&lt;p&gt;Pour faire une scène avec l'épée de hier, j'ai modélisé un tabouret qui pourra servir à meubler
 des tavernes ou magasins.&lt;/p&gt;
 &lt;p&gt;Le rendu d'aujourd'hui :&lt;/p&gt;
-&lt;img alt="rendu jour04" class="align-center" src="http://librallu.github.io/render/day04.png" style="width: 100%;" /&gt;
+&lt;img alt="rendu jour04" class="align-center" src="/render/day04.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
 &lt;a class="reference external" href="/blend/day04.blend"&gt;day04.blend&lt;/a&gt;&lt;/p&gt;
-</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Jour 3</title><link href="http://librallu.github.io/blender-challenge-03.html" rel="alternate"></link><updated>2015-10-07T11:00:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:librallu.github.io,2015-10-07:blender-challenge-03.html</id><summary type="html">&lt;p&gt;Pour changer des paysages d'extérieur, j'ai choisi aujourd'hui de modéliser une petite épée toute simple :&lt;/p&gt;
-&lt;img alt="rendu jour03" class="align-center" src="http://librallu.github.io/render/day03.png" style="width: 100%;" /&gt;
+</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Jour 3</title><link href="/blender-challenge-03.html" rel="alternate"></link><updated>2015-10-07T11:00:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-07:blender-challenge-03.html</id><summary type="html">&lt;p&gt;Pour changer des paysages d'extérieur, j'ai choisi aujourd'hui de modéliser une petite épée toute simple :&lt;/p&gt;
+&lt;img alt="rendu jour03" class="align-center" src="/render/day03.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
 &lt;a class="reference external" href="/blend/day03.blend"&gt;day03.blend&lt;/a&gt;&lt;/p&gt;
-</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Jour 2</title><link href="http://librallu.github.io/blender-challenge-02.html" rel="alternate"></link><updated>2015-10-06T19:45:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:librallu.github.io,2015-10-06:blender-challenge-02.html</id><summary type="html">&lt;p&gt;Pour ce deuxième jour, j'ai choisi de modéliser un arbre pour commencer à avoir des paysages exterieurs complets.&lt;/p&gt;
+</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Jour 2</title><link href="/blender-challenge-02.html" rel="alternate"></link><updated>2015-10-06T19:45:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-06:blender-challenge-02.html</id><summary type="html">&lt;p&gt;Pour ce deuxième jour, j'ai choisi de modéliser un arbre pour commencer à avoir des paysages exterieurs complets.&lt;/p&gt;
 &lt;p&gt;Je me suis inspiré de ce tuto : &lt;a class="reference external" href="https://www.youtube.com/watch?v=FAk1TWgMb_s"&gt;https://www.youtube.com/watch?v=FAk1TWgMb_s&lt;/a&gt;&lt;/p&gt;
-&lt;img alt="rendu jour02" class="align-center" src="http://librallu.github.io/render/day02.png" style="width: 100%;" /&gt;
+&lt;img alt="rendu jour02" class="align-center" src="/render/day02.png" style="width: 100%;" /&gt;
 &lt;p&gt;Et combiné avec les sapins de hier :&lt;/p&gt;
-&lt;img alt="rendu arbres et sapins" class="align-center" src="http://librallu.github.io/render/outdoor01.png" style="width: 100%;" /&gt;
+&lt;img alt="rendu arbres et sapins" class="align-center" src="/render/outdoor01.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
 &lt;a class="reference external" href="/blend/day02.blend"&gt;day02.blend&lt;/a&gt;&lt;/p&gt;
-</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Jour 1</title><link href="http://librallu.github.io/blender-challenge-01.html" rel="alternate"></link><updated>2015-10-05T22:00:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:librallu.github.io,2015-10-05:blender-challenge-01.html</id><summary type="html">&lt;p&gt;Pour ce premier jour, j'ai choisi de modéliser des sapins en low poly.
+</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Jour 1</title><link href="/blender-challenge-01.html" rel="alternate"></link><updated>2015-10-05T22:00:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-05:blender-challenge-01.html</id><summary type="html">&lt;p&gt;Pour ce premier jour, j'ai choisi de modéliser des sapins en low poly.
 On arrive au résultat suivant :&lt;/p&gt;
-&lt;img alt="rendu jour01" class="align-center" src="http://librallu.github.io/render/day01.png" style="width: 100%;" /&gt;
+&lt;img alt="rendu jour01" class="align-center" src="/render/day01.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
 &lt;a class="reference external" href="/blend/day01.blend"&gt;day01.blend&lt;/a&gt;&lt;/p&gt;
-</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Intro</title><link href="http://librallu.github.io/blender-challenge-intro.html" rel="alternate"></link><updated>2015-10-04T15:00:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:librallu.github.io,2015-10-04:blender-challenge-intro.html</id><summary type="html">&lt;p&gt;Ça fait déjà un petit moment que j'ai choisi de me pencher sur la
+</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Intro</title><link href="/blender-challenge-intro.html" rel="alternate"></link><updated>2015-10-04T15:00:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-04:blender-challenge-intro.html</id><summary type="html">&lt;p&gt;Ça fait déjà un petit moment que j'ai choisi de me pencher sur la
 modélisation 3D pour le jeu vidéo. En fait, j'ai toujours envie
 de créer mes petits univers 3D, mais sans forcément prendre le temps
 de le faire.

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="/" rel="alternate"></link><link href="/feeds/blog.atom.xml" rel="self"></link><id>/</id><updated>2015-10-11T18:00:00-04:00</updated><entry><title>Commentaires fonctionnels sur le blog !</title><link href="/blog-commentaires.html" rel="alternate"></link><updated>2015-10-11T18:00:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-11:blog-commentaires.html</id><summary type="html">&lt;p&gt;Ça y'est, les commentaires sont disponibles sur le blog.
+Il est maintenant possible de commenter les articles via disqus.&lt;/p&gt;
+</summary><category term="blog"></category><category term="mise à jour"></category></entry></feed>

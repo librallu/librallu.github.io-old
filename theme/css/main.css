@@ -144,7 +144,11 @@ body, html {
     margin-top: 10px;
 }
 
-
+.post-content {
+	border: 1px solid #eee;
+	padding: 10px;
+	margin: 5px;
+}
 
 .to-article {
     background-color: #f7f7f7;
@@ -179,4 +183,68 @@ body, html {
     margin: auto;
     width: 200px;
     padding: 5px;
+}
+
+#disqus_comments button {
+	display: block;
+	background-color: #f7f7f7;
+	border: 2px solid #a9d459;
+	text-transform: uppercase;
+	color: #a9d459;
+	font-weight: bold;
+	padding: 5px;
+	border-radius: 5px;
+	margin: auto;
+	margin-bottom: 10px;
+	width: 200px;
+}
+
+#disqus_comments button:hover {
+	text-decoration: underline;
+	color: #99c449;
+	border: 2px solid #99c449;
+	background-color: #fafafa;
+}
+
+.comments {
+	margin-top: 50px;
+	border-top: 1px solid #a9d459;
+}
+
+.avatar img {
+    width: 50px;
+    height: 50px;
+    border-radius: 200px;
+}
+
+.post-list {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	text-align: none;
+}
+
+.post-content header {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	border-bottom: 1px solid #fff;
+}
+
+.publisher-anchor-color {
+	margin-top: 10px;
+	margin-right: 10px;
+	display: block;
+}
+
+.time-ago {
+	margin-top: 10px;
+	margin-right: 10px;
+	display: block;
+}
+
+.post-message-container {
+	padding: 5px;
+	padding-top: 20px;
+	width: 100%;
 }
