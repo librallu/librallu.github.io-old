@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 13 Oct 2015 13:45:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 9</title><link>/blender-challenge-09.html</link><description>&lt;p&gt;L'auberge avance petit à petit. Aujourd'hui, j'ai réalisé une texture de tuiles pour le toit et
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 14 Oct 2015 10:00:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 10</title><link>/blender-challenge-10.html</link><description>&lt;p&gt;10ème jour du challenge, l'auberge continue à avancer. Aujourd'hui, j'ai
+rajouté des textures pour les poteaux et les cordes de l'auberge.&lt;/p&gt;
+&lt;p&gt;J'ai aussi pris le temps de faire la texture de la pancarte :&lt;/p&gt;
+&lt;p&gt;La texture produite pour la corde:&lt;/p&gt;
+&lt;img alt="texture corde 1" class="align-center" src="/render/rope.png" style="width: 25%;" /&gt;
+&lt;p&gt;Le rendu d'aujourd'hui :&lt;/p&gt;
+&lt;img alt="rendu jour10" class="align-center" src="/render/day10.png" style="width: 100%;" /&gt;
+&lt;p&gt;Le .blend est disponible ici
+&lt;a class="reference external" href="/blend/day10.blend"&gt;day10.blend&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Luc Libralesso</dc:creator><pubDate>Wed, 14 Oct 2015 10:00:00 -0400</pubDate><guid>tag:,2015-10-14:blender-challenge-10.html</guid><category>blender</category><category>low-poly</category><category>blog</category></item><item><title>Blender Challenge Jour 9</title><link>/blender-challenge-09.html</link><description>&lt;p&gt;L'auberge avance petit à petit. Aujourd'hui, j'ai réalisé une texture de tuiles pour le toit et
 repris la texture de la cheminée avec les pierres d'avant hier.&lt;/p&gt;
 &lt;p&gt;La texture produite :&lt;/p&gt;
 &lt;img alt="texture bois 1" class="align-center" src="/render/tiles.png" style="width: 50%;" /&gt;
