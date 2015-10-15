@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 14 Oct 2015 10:00:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 10</title><link>/blender-challenge-10.html</link><description>&lt;p&gt;10ème jour du challenge, l'auberge continue à avancer. Aujourd'hui, j'ai
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 15 Oct 2015 17:15:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 11</title><link>/blender-challenge-11.html</link><description>&lt;p&gt;Et hop, l'auberge est finie :-)
+J'ai repris les textures des portes, fenêtres et façade, ajouté quelques
+planches pour tenir la façade avec les textures de bois réalisées pour le sol
+du premier étage.&lt;/p&gt;
+&lt;p&gt;Exemple de la texture de la porte :&lt;/p&gt;
+&lt;img alt="texture porte" class="align-center" src="/render/door.png" style="width: 50%;" /&gt;
+&lt;p&gt;Cette texture est légèrement différente des autres. Plutôt que
+de modéliser qu'une seule texture par image, j'en réalise plusieurs
+et j'indique au logiciel quelle partie utiliser sur chaque face.&lt;/p&gt;
+&lt;p&gt;Le rendu d'aujourd'hui :&lt;/p&gt;
+&lt;img alt="rendu jour11" class="align-center" src="/render/day11.png" style="width: 100%;" /&gt;
+&lt;p&gt;Le .blend est disponible ici
+&lt;a class="reference external" href="/blend/day11.blend"&gt;day11.blend&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Luc Libralesso</dc:creator><pubDate>Thu, 15 Oct 2015 17:15:00 -0400</pubDate><guid>tag:,2015-10-15:blender-challenge-11.html</guid><category>blender</category><category>low-poly</category><category>blog</category></item><item><title>Blender Challenge Jour 10</title><link>/blender-challenge-10.html</link><description>&lt;p&gt;10ème jour du challenge, l'auberge continue à avancer. Aujourd'hui, j'ai
 rajouté des textures pour les poteaux et les cordes de l'auberge.&lt;/p&gt;
 &lt;p&gt;J'ai aussi pris le temps de faire la texture de la pancarte :&lt;/p&gt;
 &lt;p&gt;La texture produite pour la corde:&lt;/p&gt;
