@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 15 Oct 2015 17:15:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 11</title><link>/blender-challenge-11.html</link><description>&lt;p&gt;Et hop, l'auberge est finie :-)
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 16 Oct 2015 15:30:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 12</title><link>/blender-challenge-12.html</link><description>&lt;p&gt;Aujourd'hui, un petit tonneau avec ses textures :&lt;/p&gt;
+&lt;img alt="rendu jour12" class="align-center" src="/render/day12.png" style="width: 100%;" /&gt;
+&lt;p&gt;Le .blend est disponible ici
+&lt;a class="reference external" href="/blend/day12.blend"&gt;day12.blend&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Luc Libralesso</dc:creator><pubDate>Fri, 16 Oct 2015 15:30:00 -0400</pubDate><guid>tag:,2015-10-16:blender-challenge-12.html</guid><category>blender</category><category>low-poly</category><category>blog</category></item><item><title>Blender Challenge Jour 11</title><link>/blender-challenge-11.html</link><description>&lt;p&gt;Et hop, l'auberge est finie :-)
 J'ai repris les textures des portes, fenêtres et façade, ajouté quelques
 planches pour tenir la façade avec les textures de bois réalisées pour le sol
 du premier étage.&lt;/p&gt;
