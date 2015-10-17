@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="/" rel="alternate"></link><link href="/feeds/luc-libralesso.atom.xml" rel="self"></link><id>/</id><updated>2015-10-16T15:30:00-04:00</updated><entry><title>Blender Challenge Jour 12</title><link href="/blender-challenge-12.html" rel="alternate"></link><updated>2015-10-16T15:30:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-16:blender-challenge-12.html</id><summary type="html">&lt;p&gt;Aujourd'hui, un petit tonneau avec ses textures :&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="/" rel="alternate"></link><link href="/feeds/luc-libralesso.atom.xml" rel="self"></link><id>/</id><updated>2015-10-17T12:15:00-04:00</updated><entry><title>Blender Challenge Jour 13</title><link href="/blender-challenge-13.html" rel="alternate"></link><updated>2015-10-17T12:15:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-17:blender-challenge-13.html</id><summary type="html">&lt;p&gt;Aujourd'hui, une touffe d'herbe. Je trouve ça encore assez difficile de modéliser les végétaux,
+je pense que je vais continuer à en faire pour progresser.&lt;/p&gt;
+&lt;p&gt;Le rendu d'aujourd'hui, je rajoute à l'auberge les barils de hier et l'herbe d'aujourd'hui.&lt;/p&gt;
+&lt;img alt="rendu jour13" class="align-center" src="/render/day13.png" style="width: 100%;" /&gt;
+&lt;p&gt;Le .blend est disponible ici
+&lt;a class="reference external" href="/blend/day13.blend"&gt;day13.blend&lt;/a&gt;&lt;/p&gt;
+</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Jour 12</title><link href="/blender-challenge-12.html" rel="alternate"></link><updated>2015-10-16T15:30:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-16:blender-challenge-12.html</id><summary type="html">&lt;p&gt;Aujourd'hui, un petit tonneau avec ses textures :&lt;/p&gt;
 &lt;img alt="rendu jour12" class="align-center" src="/render/day12.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
 &lt;a class="reference external" href="/blend/day12.blend"&gt;day12.blend&lt;/a&gt;&lt;/p&gt;

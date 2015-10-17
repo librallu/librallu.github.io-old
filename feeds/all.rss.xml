@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 16 Oct 2015 15:30:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 12</title><link>/blender-challenge-12.html</link><description>&lt;p&gt;Aujourd'hui, un petit tonneau avec ses textures :&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 17 Oct 2015 12:15:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 13</title><link>/blender-challenge-13.html</link><description>&lt;p&gt;Aujourd'hui, une touffe d'herbe. Je trouve ça encore assez difficile de modéliser les végétaux,
+je pense que je vais continuer à en faire pour progresser.&lt;/p&gt;
+&lt;p&gt;Le rendu d'aujourd'hui, je rajoute à l'auberge les barils de hier et l'herbe d'aujourd'hui.&lt;/p&gt;
+&lt;img alt="rendu jour13" class="align-center" src="/render/day13.png" style="width: 100%;" /&gt;
+&lt;p&gt;Le .blend est disponible ici
+&lt;a class="reference external" href="/blend/day13.blend"&gt;day13.blend&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Luc Libralesso</dc:creator><pubDate>Sat, 17 Oct 2015 12:15:00 -0400</pubDate><guid>tag:,2015-10-17:blender-challenge-13.html</guid><category>blender</category><category>low-poly</category><category>blog</category></item><item><title>Blender Challenge Jour 12</title><link>/blender-challenge-12.html</link><description>&lt;p&gt;Aujourd'hui, un petit tonneau avec ses textures :&lt;/p&gt;
 &lt;img alt="rendu jour12" class="align-center" src="/render/day12.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
 &lt;a class="reference external" href="/blend/day12.blend"&gt;day12.blend&lt;/a&gt;&lt;/p&gt;
