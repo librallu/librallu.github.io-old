@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-10-18T12:30:00-04:00</updated><entry><title>Blender Challenge Jour 14</title><link href="/blender-challenge-14.html" rel="alternate"></link><updated>2015-10-18T12:30:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-18:blender-challenge-14.html</id><summary type="html">&lt;p&gt;Je continue sur la végétation, aujourd'hui, je rajoute une texture d'herbe pour changer le sol pas très esthétique.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-10-19T11:45:00-04:00</updated><entry><title>Blender Challenge Jour 15</title><link href="/blender-challenge-15.html" rel="alternate"></link><updated>2015-10-19T11:45:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-19:blender-challenge-15.html</id><summary type="html">&lt;p&gt;Aujourd'hui, un petit champignon :&lt;/p&gt;
+&lt;img alt="rendu jour15" class="align-center" src="/render/day15.png" style="width: 100%;" /&gt;
+&lt;p&gt;Le .blend est disponible ici
+&lt;a class="reference external" href="/blend/day15.blend"&gt;day15.blend&lt;/a&gt;&lt;/p&gt;
+</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Jour 14</title><link href="/blender-challenge-14.html" rel="alternate"></link><updated>2015-10-18T12:30:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-18:blender-challenge-14.html</id><summary type="html">&lt;p&gt;Je continue sur la végétation, aujourd'hui, je rajoute une texture d'herbe pour changer le sol pas très esthétique.&lt;/p&gt;
 &lt;img alt="texture herbe" class="align-center" src="/blend/tex-grass.png" style="width: 25%;" /&gt;
 &lt;img alt="texture bordure herbe" class="align-center" src="/blend/tex-border-map.png" style="width: 25%;" /&gt;
 &lt;img alt="rendu jour14" class="align-center" src="/render/day14.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
-&lt;a class="reference external" href="/blend/tavern-scene.blend"&gt;day13.blend&lt;/a&gt;&lt;/p&gt;
+&lt;a class="reference external" href="/blend/tavern-scene.blend"&gt;tavern-scene.blend&lt;/a&gt;&lt;/p&gt;
 </summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Jour 13</title><link href="/blender-challenge-13.html" rel="alternate"></link><updated>2015-10-17T12:15:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-17:blender-challenge-13.html</id><summary type="html">&lt;p&gt;Aujourd'hui, une touffe d'herbe. Je trouve ça encore assez difficile de modéliser les végétaux,
 je pense que je vais continuer à en faire pour progresser.&lt;/p&gt;
 &lt;p&gt;Le rendu d'aujourd'hui, je rajoute à l'auberge les barils de hier et l'herbe d'aujourd'hui.&lt;/p&gt;
