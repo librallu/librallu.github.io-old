@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/luc-libralesso.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 19 Oct 2015 11:45:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 15</title><link>/blender-challenge-15.html</link><description>&lt;p&gt;Aujourd'hui, un petit champignon :&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/luc-libralesso.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 20 Oct 2015 20:45:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 16</title><link>/blender-challenge-16.html</link><description>&lt;p&gt;Aujourd'hui, un bouclier low-poly :&lt;/p&gt;
+&lt;img alt="rendu jour16" class="align-center" src="/render/day16.png" style="width: 100%;" /&gt;
+&lt;p&gt;Le .blend est disponible ici
+&lt;a class="reference external" href="/blend/day16.blend"&gt;day16.blend&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Luc Libralesso</dc:creator><pubDate>Tue, 20 Oct 2015 20:45:00 -0400</pubDate><guid>tag:,2015-10-20:blender-challenge-16.html</guid><category>blender</category><category>low-poly</category><category>blog</category></item><item><title>Blender Challenge Jour 15</title><link>/blender-challenge-15.html</link><description>&lt;p&gt;Aujourd'hui, un petit champignon :&lt;/p&gt;
 &lt;img alt="rendu jour15" class="align-center" src="/render/day15.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
 &lt;a class="reference external" href="/blend/day15.blend"&gt;day15.blend&lt;/a&gt;&lt;/p&gt;
