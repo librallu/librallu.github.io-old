@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 21 Oct 2015 14:15:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 17</title><link>/blender-challenge-17.html</link><description>&lt;p&gt;Aujourd'hui, on continue le bouclier en rajoutant une texture de bois :&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Thu, 22 Oct 2015 17:45:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 18</title><link>/blender-challenge-18.html</link><description>&lt;p&gt;Aujourd'hui, une petite composition pour tester un éclairage de route :&lt;/p&gt;
+&lt;img alt="rendu jour18" class="align-center" src="/render/day18.png" style="width: 100%;" /&gt;
+&lt;p&gt;Le .blend est disponible ici
+&lt;a class="reference external" href="/blend/day18.blend"&gt;day18.blend&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Luc Libralesso</dc:creator><pubDate>Thu, 22 Oct 2015 17:45:00 -0400</pubDate><guid>tag:,2015-10-22:blender-challenge-18.html</guid><category>blender</category><category>low-poly</category><category>blog</category></item><item><title>Blender Challenge Jour 17</title><link>/blender-challenge-17.html</link><description>&lt;p&gt;Aujourd'hui, on continue le bouclier en rajoutant une texture de bois :&lt;/p&gt;
 &lt;img alt="rendu jour17" class="align-center" src="/render/day17.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
 &lt;a class="reference external" href="/blend/day16.blend"&gt;day16.blend&lt;/a&gt;&lt;/p&gt;

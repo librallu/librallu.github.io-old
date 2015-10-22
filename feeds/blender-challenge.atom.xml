@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="/" rel="alternate"></link><link href="/feeds/blender-challenge.atom.xml" rel="self"></link><id>/</id><updated>2015-10-21T14:15:00-04:00</updated><entry><title>Blender Challenge Jour 17</title><link href="/blender-challenge-17.html" rel="alternate"></link><updated>2015-10-21T14:15:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-21:blender-challenge-17.html</id><summary type="html">&lt;p&gt;Aujourd'hui, on continue le bouclier en rajoutant une texture de bois :&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="/" rel="alternate"></link><link href="/feeds/blender-challenge.atom.xml" rel="self"></link><id>/</id><updated>2015-10-22T17:45:00-04:00</updated><entry><title>Blender Challenge Jour 18</title><link href="/blender-challenge-18.html" rel="alternate"></link><updated>2015-10-22T17:45:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-22:blender-challenge-18.html</id><summary type="html">&lt;p&gt;Aujourd'hui, une petite composition pour tester un éclairage de route :&lt;/p&gt;
+&lt;img alt="rendu jour18" class="align-center" src="/render/day18.png" style="width: 100%;" /&gt;
+&lt;p&gt;Le .blend est disponible ici
+&lt;a class="reference external" href="/blend/day18.blend"&gt;day18.blend&lt;/a&gt;&lt;/p&gt;
+</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Jour 17</title><link href="/blender-challenge-17.html" rel="alternate"></link><updated>2015-10-21T14:15:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-21:blender-challenge-17.html</id><summary type="html">&lt;p&gt;Aujourd'hui, on continue le bouclier en rajoutant une texture de bois :&lt;/p&gt;
 &lt;img alt="rendu jour17" class="align-center" src="/render/day17.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
 &lt;a class="reference external" href="/blend/day16.blend"&gt;day16.blend&lt;/a&gt;&lt;/p&gt;
