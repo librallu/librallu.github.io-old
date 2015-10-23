@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-10-22T17:45:00-04:00</updated><entry><title>Blender Challenge Jour 18</title><link href="/blender-challenge-18.html" rel="alternate"></link><updated>2015-10-22T17:45:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-22:blender-challenge-18.html</id><summary type="html">&lt;p&gt;Aujourd'hui, une petite composition pour tester un éclairage de route :&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-10-23T11:45:00-04:00</updated><entry><title>Blender Challenge Jour 19</title><link href="/blender-challenge-19.html" rel="alternate"></link><updated>2015-10-23T11:45:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-23:blender-challenge-19.html</id><summary type="html">&lt;p&gt;Aujourd'hui, un essai de crystal&lt;/p&gt;
+&lt;img alt="rendu jour19" class="align-center" src="/render/day19.png" style="width: 100%;" /&gt;
+&lt;p&gt;Je pense demain, je reprendrai la texture pour faire quelque chose de plus fin.&lt;/p&gt;
+&lt;p&gt;Le .blend est disponible ici
+&lt;a class="reference external" href="/blend/day19.blend"&gt;day19.blend&lt;/a&gt;&lt;/p&gt;
+</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Jour 18</title><link href="/blender-challenge-18.html" rel="alternate"></link><updated>2015-10-22T17:45:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-22:blender-challenge-18.html</id><summary type="html">&lt;p&gt;Aujourd'hui, une petite composition pour tester un éclairage de route :&lt;/p&gt;
 &lt;img alt="rendu jour18" class="align-center" src="/render/day18.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
 &lt;a class="reference external" href="/blend/day18.blend"&gt;day18.blend&lt;/a&gt;&lt;/p&gt;
