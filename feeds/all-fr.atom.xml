@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="/" rel="alternate"></link><link href="/feeds/all-fr.atom.xml" rel="self"></link><id>/</id><updated>2015-10-24T12:15:00-04:00</updated><entry><title>Blender Challenge Jour 20</title><link href="/blender-challenge-20.html" rel="alternate"></link><updated>2015-10-24T12:15:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-24:blender-challenge-20.html</id><summary type="html">&lt;p&gt;On continue avec le crystal en essayant d'améliorer sa texture
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="/" rel="alternate"></link><link href="/feeds/all-fr.atom.xml" rel="self"></link><id>/</id><updated>2015-10-25T23:45:00-04:00</updated><entry><title>Blender Challenge Jour 21</title><link href="/blender-challenge-21.html" rel="alternate"></link><updated>2015-10-25T23:45:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-25:blender-challenge-21.html</id><summary type="html">&lt;p&gt;Aujourd'hui, une nouvelle scène de carrefour. Je commence par un panneau
+indiquant les directions et je complèterai par une route en terre battue et quelques
+barrières.&lt;/p&gt;
+&lt;img alt="rendu jour21" class="align-center" src="/render/day21.png" style="width: 100%;" /&gt;
+&lt;p&gt;Le .blend est disponible ici
+&lt;a class="reference external" href="/blend/day21.blend"&gt;day21.blend&lt;/a&gt;&lt;/p&gt;
+</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Jour 20</title><link href="/blender-challenge-20.html" rel="alternate"></link><updated>2015-10-24T12:15:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-24:blender-challenge-20.html</id><summary type="html">&lt;p&gt;On continue avec le crystal en essayant d'améliorer sa texture
 J'obtiens ça :&lt;/p&gt;
 &lt;img alt="rendu jour20" class="align-center" src="/render/day20.png" style="width: 100%;" /&gt;
 &lt;p&gt;J'ai encore du travail à faire au niveau des textures de pierres de tout

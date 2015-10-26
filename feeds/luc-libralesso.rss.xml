@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/luc-libralesso.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 24 Oct 2015 12:15:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 20</title><link>/blender-challenge-20.html</link><description>&lt;p&gt;On continue avec le crystal en essayant d'améliorer sa texture
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/luc-libralesso.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 25 Oct 2015 23:45:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 21</title><link>/blender-challenge-21.html</link><description>&lt;p&gt;Aujourd'hui, une nouvelle scène de carrefour. Je commence par un panneau
+indiquant les directions et je complèterai par une route en terre battue et quelques
+barrières.&lt;/p&gt;
+&lt;img alt="rendu jour21" class="align-center" src="/render/day21.png" style="width: 100%;" /&gt;
+&lt;p&gt;Le .blend est disponible ici
+&lt;a class="reference external" href="/blend/day21.blend"&gt;day21.blend&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Luc Libralesso</dc:creator><pubDate>Sun, 25 Oct 2015 23:45:00 -0400</pubDate><guid>tag:,2015-10-25:blender-challenge-21.html</guid><category>blender</category><category>low-poly</category><category>blog</category></item><item><title>Blender Challenge Jour 20</title><link>/blender-challenge-20.html</link><description>&lt;p&gt;On continue avec le crystal en essayant d'améliorer sa texture
 J'obtiens ça :&lt;/p&gt;
 &lt;img alt="rendu jour20" class="align-center" src="/render/day20.png" style="width: 100%;" /&gt;
 &lt;p&gt;J'ai encore du travail à faire au niveau des textures de pierres de tout
