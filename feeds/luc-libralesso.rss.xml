@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/luc-libralesso.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 26 Oct 2015 13:00:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 22</title><link>/blender-challenge-22.html</link><description>&lt;p&gt;Aujourd'hui, je continue sur la pancarte, une texture pour le panneau est faite.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/luc-libralesso.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 27 Oct 2015 10:15:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 23</title><link>/blender-challenge-23.html</link><description>&lt;p&gt;Je me rends compte que la texture du panneau n'était pas très jolie et
+j'ai légèrement décalé le panneau pour donner quelque chose d'assez réaliste.
+Finalement, je suis assez satisfait du rendu d'aujourd'hui :&lt;/p&gt;
+&lt;img alt="rendu jour23" class="align-center" src="/render/day23.png" style="width: 100%;" /&gt;
+&lt;p&gt;Le .blend est disponible ici
+&lt;a class="reference external" href="/blend/day21.blend"&gt;day21.blend&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Luc Libralesso</dc:creator><pubDate>Tue, 27 Oct 2015 10:15:00 -0400</pubDate><guid>tag:,2015-10-27:blender-challenge-23.html</guid><category>blender</category><category>low-poly</category><category>blog</category></item><item><title>Blender Challenge Jour 22</title><link>/blender-challenge-22.html</link><description>&lt;p&gt;Aujourd'hui, je continue sur la pancarte, une texture pour le panneau est faite.&lt;/p&gt;
 &lt;img alt="rendu jour22" class="align-center" src="/render/day22.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
 &lt;a class="reference external" href="/blend/day21.blend"&gt;day21.blend&lt;/a&gt;&lt;/p&gt;
