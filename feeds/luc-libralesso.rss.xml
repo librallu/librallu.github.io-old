@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/luc-libralesso.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 27 Oct 2015 10:15:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 23</title><link>/blender-challenge-23.html</link><description>&lt;p&gt;Je me rends compte que la texture du panneau n'était pas très jolie et
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/luc-libralesso.rss.xml" rel="self"></atom:link><lastBuildDate>Wed, 28 Oct 2015 21:30:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 24</title><link>/blender-challenge-24.html</link><description>&lt;p&gt;Aujourd'hui, les textures des pierres sous la pancarte&lt;/p&gt;
+&lt;img alt="rendu jour24" class="align-center" src="/render/day24.png" style="width: 100%;" /&gt;
+&lt;p&gt;Le .blend est disponible ici
+&lt;a class="reference external" href="/blend/day21.blend"&gt;day21.blend&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Luc Libralesso</dc:creator><pubDate>Wed, 28 Oct 2015 21:30:00 -0400</pubDate><guid>tag:,2015-10-28:blender-challenge-24.html</guid><category>blender</category><category>low-poly</category><category>blog</category></item><item><title>Blender Challenge Jour 23</title><link>/blender-challenge-23.html</link><description>&lt;p&gt;Je me rends compte que la texture du panneau n'était pas très jolie et
 j'ai légèrement décalé le panneau pour donner quelque chose d'assez réaliste.
 Finalement, je suis assez satisfait du rendu d'aujourd'hui :&lt;/p&gt;
 &lt;img alt="rendu jour23" class="align-center" src="/render/day23.png" style="width: 100%;" /&gt;

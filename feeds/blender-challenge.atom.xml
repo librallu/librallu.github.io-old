@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="/" rel="alternate"></link><link href="/feeds/blender-challenge.atom.xml" rel="self"></link><id>/</id><updated>2015-10-27T10:15:00-04:00</updated><entry><title>Blender Challenge Jour 23</title><link href="/blender-challenge-23.html" rel="alternate"></link><updated>2015-10-27T10:15:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-27:blender-challenge-23.html</id><summary type="html">&lt;p&gt;Je me rends compte que la texture du panneau n'était pas très jolie et
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="/" rel="alternate"></link><link href="/feeds/blender-challenge.atom.xml" rel="self"></link><id>/</id><updated>2015-10-28T21:30:00-04:00</updated><entry><title>Blender Challenge Jour 24</title><link href="/blender-challenge-24.html" rel="alternate"></link><updated>2015-10-28T21:30:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-28:blender-challenge-24.html</id><summary type="html">&lt;p&gt;Aujourd'hui, les textures des pierres sous la pancarte&lt;/p&gt;
+&lt;img alt="rendu jour24" class="align-center" src="/render/day24.png" style="width: 100%;" /&gt;
+&lt;p&gt;Le .blend est disponible ici
+&lt;a class="reference external" href="/blend/day21.blend"&gt;day21.blend&lt;/a&gt;&lt;/p&gt;
+</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Jour 23</title><link href="/blender-challenge-23.html" rel="alternate"></link><updated>2015-10-27T10:15:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-10-27:blender-challenge-23.html</id><summary type="html">&lt;p&gt;Je me rends compte que la texture du panneau n'était pas très jolie et
 j'ai légèrement décalé le panneau pour donner quelque chose d'assez réaliste.
 Finalement, je suis assez satisfait du rendu d'aujourd'hui :&lt;/p&gt;
 &lt;img alt="rendu jour23" class="align-center" src="/render/day23.png" style="width: 100%;" /&gt;
