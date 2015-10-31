@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/luc-libralesso.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 31 Oct 2015 00:00:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 26</title><link>/blender-challenge-26.html</link><description>&lt;p&gt;Aujourd'hui des pierres plates pour le sol&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/luc-libralesso.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 31 Oct 2015 16:45:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 27</title><link>/blender-challenge-27.html</link><description>&lt;p&gt;Aujourd'hui des fleurs :&lt;/p&gt;
+&lt;img alt="rendu jour27" class="align-center" src="/render/day27.png" style="width: 100%;" /&gt;
+&lt;p&gt;Le .blend est disponible ici
+&lt;a class="reference external" href="/blend/day27.blend"&gt;day27.blend&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Luc Libralesso</dc:creator><pubDate>Sat, 31 Oct 2015 16:45:00 -0400</pubDate><guid>tag:,2015-10-31:blender-challenge-27.html</guid><category>blender</category><category>low-poly</category><category>blog</category></item><item><title>Blender Challenge Jour 26</title><link>/blender-challenge-26.html</link><description>&lt;p&gt;Aujourd'hui des pierres plates pour le sol&lt;/p&gt;
 &lt;img alt="rendu jour26" class="align-center" src="/render/day26.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
 &lt;a class="reference external" href="/blend/day26.blend"&gt;day26.blend&lt;/a&gt;&lt;/p&gt;
-</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Luc Libralesso</dc:creator><pubDate>Sat, 31 Oct 2015 00:00:00 -0400</pubDate><guid>tag:,2015-10-31:blender-challenge-26.html</guid><category>blender</category><category>low-poly</category><category>blog</category></item><item><title>Blender Challenge Jour 25</title><link>/blender-challenge-25.html</link><description>&lt;p&gt;Aujourd'hui, des barrières inspirées de celles de la taverne :&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Luc Libralesso</dc:creator><pubDate>Sat, 31 Oct 2015 15:00:00 -0400</pubDate><guid>tag:,2015-10-31:blender-challenge-26.html</guid><category>blender</category><category>low-poly</category><category>blog</category></item><item><title>Blender Challenge Jour 25</title><link>/blender-challenge-25.html</link><description>&lt;p&gt;Aujourd'hui, des barrières inspirées de celles de la taverne :&lt;/p&gt;
 &lt;img alt="rendu jour25" class="align-center" src="/render/day25.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
 &lt;a class="reference external" href="/blend/day21.blend"&gt;day21.blend&lt;/a&gt;&lt;/p&gt;
