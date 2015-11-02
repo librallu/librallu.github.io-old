@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 01 Nov 2015 00:00:00 -0400</lastBuildDate><item><title>Blender Challenge Jour 28</title><link>/blender-challenge-28.html</link><description>&lt;p&gt;Aujourd'hui un petit arbuste fruitier&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 02 Nov 2015 00:00:00 -0500</lastBuildDate><item><title>Blender Challenge Jour 29</title><link>/blender-challenge-29.html</link><description>&lt;p&gt;Aujourd'hui un stand d'extérieur pour la vente.
+Les textures seront pour demain.&lt;/p&gt;
+&lt;img alt="rendu jour29" class="align-center" src="/render/day29.png" style="width: 100%;" /&gt;
+&lt;p&gt;Le .blend est disponible ici
+&lt;a class="reference external" href="/blend/day29.blend"&gt;day29.blend&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Luc Libralesso</dc:creator><pubDate>Mon, 02 Nov 2015 00:00:00 -0500</pubDate><guid>tag:,2015-11-02:blender-challenge-29.html</guid><category>blender</category><category>low-poly</category><category>blog</category></item><item><title>Blender Challenge Jour 28</title><link>/blender-challenge-28.html</link><description>&lt;p&gt;Aujourd'hui un petit arbuste fruitier&lt;/p&gt;
 &lt;img alt="rendu jour28" class="align-center" src="/render/day28.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
 &lt;a class="reference external" href="/blend/day28.blend"&gt;day28.blend&lt;/a&gt;&lt;/p&gt;

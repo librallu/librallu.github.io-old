@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="/" rel="alternate"></link><link href="/feeds/blender-challenge.atom.xml" rel="self"></link><id>/</id><updated>2015-11-01T00:00:00-04:00</updated><entry><title>Blender Challenge Jour 28</title><link href="/blender-challenge-28.html" rel="alternate"></link><updated>2015-11-01T00:00:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-11-01:blender-challenge-28.html</id><summary type="html">&lt;p&gt;Aujourd'hui un petit arbuste fruitier&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Luc Libralesso</title><link href="/" rel="alternate"></link><link href="/feeds/blender-challenge.atom.xml" rel="self"></link><id>/</id><updated>2015-11-02T00:00:00-05:00</updated><entry><title>Blender Challenge Jour 29</title><link href="/blender-challenge-29.html" rel="alternate"></link><updated>2015-11-02T00:00:00-05:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-11-02:blender-challenge-29.html</id><summary type="html">&lt;p&gt;Aujourd'hui un stand d'extérieur pour la vente.
+Les textures seront pour demain.&lt;/p&gt;
+&lt;img alt="rendu jour29" class="align-center" src="/render/day29.png" style="width: 100%;" /&gt;
+&lt;p&gt;Le .blend est disponible ici
+&lt;a class="reference external" href="/blend/day29.blend"&gt;day29.blend&lt;/a&gt;&lt;/p&gt;
+</summary><category term="blender"></category><category term="low-poly"></category><category term="blog"></category></entry><entry><title>Blender Challenge Jour 28</title><link href="/blender-challenge-28.html" rel="alternate"></link><updated>2015-11-01T00:00:00-04:00</updated><author><name>Luc Libralesso</name></author><id>tag:,2015-11-01:blender-challenge-28.html</id><summary type="html">&lt;p&gt;Aujourd'hui un petit arbuste fruitier&lt;/p&gt;
 &lt;img alt="rendu jour28" class="align-center" src="/render/day28.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
 &lt;a class="reference external" href="/blend/day28.blend"&gt;day28.blend&lt;/a&gt;&lt;/p&gt;
