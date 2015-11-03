@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Mon, 02 Nov 2015 00:00:00 -0500</lastBuildDate><item><title>Blender Challenge Jour 29</title><link>/blender-challenge-29.html</link><description>&lt;p&gt;Aujourd'hui un stand d'extérieur pour la vente.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Luc Libralesso</title><link>/</link><description></description><atom:link href="/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 03 Nov 2015 10:00:00 -0500</lastBuildDate><item><title>Blender Challenge Jour 30</title><link>/blender-challenge-30.html</link><description>&lt;p&gt;Et voilà pour le dernier jour du challenge, j'ai continué
+le store en lui ajoutant une texture :&lt;/p&gt;
+&lt;img alt="rendu jour30" class="align-center" src="|filename|/render/day30.png" style="width: 100%;" /&gt;
+&lt;p&gt;Je ferai d'ici 2-3 jours un petit compte rendu des résultats de
+ce challenge, mon ressenti et les perspectives.&lt;/p&gt;
+&lt;p&gt;Le .blend est disponible ici
+&lt;a class="reference external" href="/blend/day29.blend"&gt;day29.blend&lt;/a&gt;&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Luc Libralesso</dc:creator><pubDate>Tue, 03 Nov 2015 10:00:00 -0500</pubDate><guid>tag:,2015-11-03:blender-challenge-30.html</guid><category>blender</category><category>low-poly</category><category>blog</category></item><item><title>Blender Challenge Jour 29</title><link>/blender-challenge-29.html</link><description>&lt;p&gt;Aujourd'hui un stand d'extérieur pour la vente.
 Les textures seront pour demain.&lt;/p&gt;
 &lt;img alt="rendu jour29" class="align-center" src="/render/day29.png" style="width: 100%;" /&gt;
 &lt;p&gt;Le .blend est disponible ici
