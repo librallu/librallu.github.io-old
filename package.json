@@ -1,0 +1,43 @@
+{
+  "name": "pelican-kiwi-theme",
+  "version": "0.1.0",
+  "description": "An elegant and minimalistic theme for pelican",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-cssbeautify": "latest",
+    "gulp-csscomb": "latest",
+    "gulp-csso": "latest",
+    "gulp-gh-pages": "latest",
+    "gulp-imagemin": "latest",
+    "gulp-load-plugins": "latest",
+    "gulp-rename": "latest",
+    "gulp-sass": "latest",
+    "gulp-uglify": "latest",
+    "gulp-uncss": "latest",
+    "gulp-manifest": "latest",
+    "browser-sync": "latest",
+    "gulp-concat": "latest",
+    "gulp-clean-css": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/librallu/pelican-kiwi-theme.git"
+  },
+  "keywords": [
+    "pelican",
+    "theme",
+    "minimalistic"
+  ],
+  "author": "Luc Libralesso (librallu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/librallu/pelican-kiwi-theme/issues"
+  },
+  "homepage": "https://github.com/librallu/pelican-kiwi-theme#readme"
+}
