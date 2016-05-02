@@ -1,0 +1,11 @@
+$main-font: 'Roboto', sans-serif;
+@font-face {
+    font-family: $main-font;
+    src: url('fonts/roboto.woff2');
+}
+
+body {
+    font-family: $main-font;
+    background-color: #cde;
+    color: #444;
+}

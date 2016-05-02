@@ -36,6 +36,10 @@ SOCIAL = [
     ('github', 'librallu')
 ]
 
+STATIC_PATHS = ['cv']
+PAGE_EXCLUDES = ['cv']
+ARTICLE_EXCLUDES = ['cv']
+
 DEFAULT_PAGINATION = 10
 
 

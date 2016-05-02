@@ -2,10 +2,12 @@
 gulp = require('gulp');
 
 var plugins = require('gulp-load-plugins')();
+var exec = require('child_process').exec;
 
 var source = './pelican-kiwi-theme/src/';
 var source_blog = 'src/';
 var destination = './dest/';
+var content = './content';
 
 /** CSS PART */
 gulp.task('css', function() {
@@ -54,7 +56,6 @@ gulp.task('watch', function() {
     gulp.watch(source+"js/*", ['js']);
 });
 
-var exec = require('child_process').exec;
 gulp.task('publish', function(cb) {
     exec('make publish && ghp-import output && git push origin gh-pages', function (err, stdout, stderr) {
         console.log(stdout);
@@ -63,5 +64,29 @@ gulp.task('publish', function(cb) {
   });
 });
 
-gulp.task('build', ['css', 'js', 'html', 'img', 'ico']);
+gulp.task('cvCSS', function(cb) {
+    return gulp.src(source_blog+"cv/cv.scss")
+    .pipe(plugins.sass())
+    .pipe(plugins.csscomb())
+    .pipe(plugins.autoprefixer())
+    .pipe(plugins.csso())
+    .pipe(plugins.rename({
+        suffix: '.min'
+    }))
+    .pipe(gulp.dest(content+"/cv/"));
+});
+
+gulp.task('content', function() {
+    return gulp.src(source_blog+"/content/*")
+    .pipe(gulp.dest(content));
+});
+
+gulp.task('cvHTML', function() {
+    return gulp.src(source_blog+"/cv/*.{html}")
+    .pipe(gulp.dest(content+"/cv/"));
+});
+
+gulp.task('cv', ['cvCSS', 'cvHTML'])
+
+gulp.task('build', ['css', 'js', 'html', 'img', 'ico', 'content', 'cv']);
 gulp.task('default', ['build']);
