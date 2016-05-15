@@ -82,11 +82,17 @@ gulp.task('content', function() {
 });
 
 gulp.task('cvHTML', function() {
-    return gulp.src(source_blog+"/cv/*.{html}")
+    return gulp.src(source_blog+"cv/*.{html,woff2}")
     .pipe(gulp.dest(content+"/cv/"));
 });
 
-gulp.task('cv', ['cvCSS', 'cvHTML'])
+gulp.task('cvImg', function() {
+  return gulp.src(source_blog+"cv/*.{png,jpg,jpeg,gif,svg}")
+  .pipe(plugins.imagemin())
+  .pipe(gulp.dest(content+"/cv/"));
+});
+
+gulp.task('cv', ['cvCSS', 'cvHTML', 'cvImg'])
 
 gulp.task('build', ['css', 'js', 'html', 'img', 'ico', 'content', 'cv']);
 gulp.task('default', ['build']);
