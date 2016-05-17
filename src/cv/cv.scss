@@ -32,8 +32,8 @@ header {
   width: auto;
 
   img {
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     margin-right: 50px;
   }
@@ -44,10 +44,10 @@ header {
     flex-direction: column;
 
     h1 {
-      padding-top: 30px;
       text-transform: uppercase;
       color: $name-color;
-      font-size: 2.6em;
+      font-size: 2.3em;
+      margin-bottom: 0;
     }
 
     h2 {
@@ -60,6 +60,7 @@ header {
 
 #main-split {
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
     padding-left: 25px;
     border-bottom: 60px solid $top-border-color;
@@ -67,12 +68,14 @@ header {
 
     #split-left {
       margin: auto;
+      order: 2;
     }
 
     #split-right {
       background-color: $about-background;
       padding: 20px;
-      width: 200px;
+      display:none;
+      order: 1;
 
       h2 {
         text-transform: uppercase;
@@ -262,6 +265,7 @@ header {
 #online-profile {
 
   margin-bottom: 30px;
+  margin-right: 20px;
 
   .vert-split {
 
@@ -297,4 +301,16 @@ header {
       }
     }
   }
+}
+
+@media (min-width:1400px) {
+  @import 'large';
+}
+
+@media screen and (max-width:850px) {
+  @import 'small';
+}
+
+@media print {
+  @import 'print';
 }

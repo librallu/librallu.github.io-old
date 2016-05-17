@@ -1,0 +1,15 @@
+#main-split {
+
+  flex-direction: row;
+
+  #split-right {
+    width: 500px;
+    display: block;
+    order: 2;
+  }
+
+  #split-left {
+    order: 1;
+  }
+
+}
