@@ -101,3 +101,12 @@ header {
     }
   }
 }
+
+@media (min-width:550px) {
+
+  #online-profile {
+    margin: auto;
+    width: 500px;
+    padding-bottom: 20px;
+  }
+}
