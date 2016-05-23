@@ -1,11 +1,16 @@
 #main-split {
 
   flex-direction: row;
+  padding-left: 25px;
+
 
   #split-right {
+    margin-top: 0;
     width: 500px;
+    padding: 20px;
     display: block;
     order: 2;
+    text-align: left;
   }
 
   #split-left {

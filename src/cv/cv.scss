@@ -13,6 +13,14 @@ $title-color: #797;
 $top-border-color: #575;
 $note-color: #777;
 
+a {
+  color: $link;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
 @font-face {
     font-family: $main-font;
     src: url('roboto.woff2');
@@ -62,20 +70,27 @@ header {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    padding-left: 25px;
     border-bottom: 60px solid $top-border-color;
+    min-width: 350px;
 
 
     #split-left {
       margin: auto;
-      order: 2;
+      order: 1;
     }
 
     #split-right {
+      margin-top: 40px;
       background-color: $about-background;
-      padding: 20px;
-      display:none;
-      order: 1;
+      order: 2;
+      text-align: center;
+      justify-content: center;
+
+      ul {
+        width: 200px;
+        margin: auto;
+        text-align: left;
+      }
 
       h2 {
         text-transform: uppercase;
@@ -87,7 +102,7 @@ header {
       p {
         color: $about-text;
         font-size: 1.1em;
-        text-align: justify;
+        text-align: center;
       }
 
     }
