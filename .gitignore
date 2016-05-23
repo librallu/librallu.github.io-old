@@ -3,4 +3,4 @@ output/*
 node_modules
 dest/
 *.pid
-content/
+content/*
