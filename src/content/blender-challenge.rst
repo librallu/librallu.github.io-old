@@ -1,11 +1,13 @@
-Title: Conclusions sur le Blender Challenge
-Date: 2016-05-22 10:20
-Category: Blender Challenge
-Tags: Blender, 30days, Challenge
-Slug: blender-challenge-conclusions
-Author: Luc Libralesso
-Summary: Mes conclusions sur le blender Challenge
-Image: /images/blender-challenge.png
+Conclusions sur le Blender Challenge
+####################################
+
+:Date: 2016-05-22 10:20
+:Category: Blender Challenge
+:Tags: Blender, 30days, Challenge
+:Slug: blender-challenge-conclusions
+:Author: Luc Libralesso
+:Summary: Mes conclusions sur le blender Challenge
+:Image: /images/blender-challenge.png
 
 J'ai toujours eu envie de me lancer dans la modélisation 3D. On peut faire beaucoup
 de choses avec. Faire de jolies images, visualiser du contenu de manière beaucoup
@@ -25,7 +27,8 @@ nouveau.
 
 Voici mes impressions et mes résultats.
 
-## Mes Impressions
+Mes Impressions
+===============
 
 Les premiers jours, j'ai adoré, c'était vraiment intéressant, j'avais l'impression de découvrir
 un nouveau monde. Presque autant que quand j'ai écrit mon premier programme qui affichait un
@@ -39,34 +42,48 @@ Pas trop importante, mais importante quand même ^^'. Vers le milieu du challeng
 des projets et examens qui tombaient, je me rendais compte que ça pouvait faire une grosse charge de travail
 quotidienne tout en restant un challenge, c'était le bon rythme. Et le résultat en valait la peine.
 
-## Les résultats
+Les résultats
+=============
 
 Au début, je suivais des tutos à droite à gauche, débutais dans la modélisation et l'application de couleurs
-aux objets. Je trouvais le [low poly](https://www.google.ca/search?q=low+poly&safe=off&client=ubuntu&hs=ykO&channel=fs&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi65eOSqe_MAhUOR1IKHTxWDV0Q_AUIBygB&biw=1920&bih=909&dpr=1) particulièrement sympa, c'était sobre et joli visuellement. J'ai donc
+aux objets. Je trouvais le `low poly <https://www.google.ca/search?q=low+poly&safe=off&client=ubuntu&hs=ykO&channel=fs&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi65eOSqe_MAhUOR1IKHTxWDV0Q_AUIBygB&biw=1920&bih=909&dpr=1>`_ particulièrement sympa, c'était sobre et joli visuellement. J'ai donc
 fait mes premières modélisations avec ce principe.
 
 Première modélisation: un petit ensemble de sapins :
-![Une première scène simple](/images/day01.png)
+
+.. image:: /images/day01.png
+  :alt: Une première scène simple
 
 Jour 6 : Une taverne médiévale. On remarque l'ajout de lumières et des formes
 un peu plus complexes
-![Une taverne (première version)](/images/day06.png)
 
-Puis, à force de suivre des tutos, je commençais a avoir envie d'appliquer des [textures dessinées main](https://www.google.ca/search?q=hand+drawn+texture+3d&safe=off&client=ubuntu&hs=4Sj&channel=fs&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi6kYblqe_MAhUJJlIKHW-mAE8Q_AUIBygB&biw=1920&bih=909#safe=off&channel=fs&tbm=isch&q=hand+drawn+texture+game).
+.. image:: /images/day06.png
+  :alt: Une taverne (première version)
+
+Puis, à force de suivre des tutos, je commençais a avoir envie d'appliquer des `textures dessinées <https://www.google.ca/search?q=hand+drawn+texture+3d&safe=off&client=ubuntu&hs=4Sj&channel=fs&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi6kYblqe_MAhUJJlIKHW-mAE8Q_AUIBygB&biw=1920&bih=909#safe=off&channel=fs&tbm=isch&q=hand+drawn+texture+game>`_ .
 On voit ça dans certains jeux video et je voulais m'essayer à ça. J'avais une tablette graphique sous la main
 ce qui faisait une très bonne occasion de tester la chose :
 
 Ajout de textures au niveau du toit, de la cheminée et du rez-de-chaussée :
-![Une taverne (Avec quelques textures)](/images/day09.png)
+
+.. image:: /images/day09.png
+  :alt: Une taverne (Avec quelques textures)
 
 Taverne avec un ensemble de textures: le sol, les poutres, les murs, plus des tonneaux
 eux aussi texturés :
-![Une taverne (Avec plus d'éléments)](/images/day14.png)
-![Quelques éléments à côté de la taverne](/images/blender-challenge.png)
+
+.. image:: /images/day14.png
+  :alt: Une taverne (Avec plus d'éléments)
+
+.. image:: /images/blender-challenge.png
+    :alt: Quelques éléments à côté de la taverne
 
 Ici, un exemple de fichier de texture dessiné à la main. Cette texture est ensuite
 appliquée à la modélisation.
-![Exemple de texture (pancarte sur la taverne)](/images/tavern-sign.png)
+
+.. image:: /images/tavern-sign.png
+    :alt: Exemple de texture (pancarte sur la taverne)
+
 
 Finalement, de fil en aiguille, j'ai commencé à faire des choses intéressantes.
 Pour moi qui ne pensait ne jamais être capable de faire de la modélisation 3D,

@@ -10,7 +10,12 @@ PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
 
-DEFAULT_LANG = u'fr'
+DEFAULT_LANG = u'FR_fr'
+
+LOCALE = (
+    'fr',
+    'fr_FR'
+)
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -46,6 +51,11 @@ ARTICLE_EXCLUDES = ['cv']
 
 DEFAULT_PAGINATION = 10
 
+PLUGIN_PATHS = ['plugins']
+PLUGINS = [
+    'render_math'
+]
 
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+DATE_FORMATS = {
+    'FR_fr': '%d %B %Y'
+}

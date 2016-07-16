@@ -5,7 +5,7 @@ var plugins = require('gulp-load-plugins')();
 var exec = require('child_process').exec;
 
 var source = './pelican-kiwi-theme/src/';
-var source_blog = 'src/';
+var source_blog = './src/';
 var destination = './dest/';
 var content = './content';
 
@@ -98,7 +98,7 @@ gulp.task('cvImg', function() {
   .pipe(gulp.dest(content+"/cv/"));
 });
 
-gulp.task('cv', ['cvCSS', 'cvHTML', 'cvImg'])
+gulp.task('cv', ['cvCSS', 'cvHTML', 'cvImg']);
 
 gulp.task('build', ['css', 'js', 'html', 'img', 'ico', 'content', 'user-images', 'cv']);
 gulp.task('default', ['build']);
