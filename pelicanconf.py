@@ -14,7 +14,7 @@ DEFAULT_LANG = u'FR_fr'
 
 LOCALE = (
     'fr',
-    'fr_FR'
+    'fr_FR.utf8'
 )
 
 # Feed generation is usually not desired when developing
@@ -35,6 +35,8 @@ KIWI_EDITO_TEXT = """
 <p>Sur ce site, je partage mes dernières découvertes/expériences en Informatique et Mathématiques et également à ce qui
 permet de développer un style de vie sain et productif.
 </p>
+
+<p><a href="/cv/">Mon CV</a></p>
 """
 
 # FOR SEO
