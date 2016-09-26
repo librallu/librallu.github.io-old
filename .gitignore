@@ -1,8 +1,0 @@
-output/*
-*.pyc
-node_modules
-dest/
-*.pid
-content/*
-plugins/*
-src/tmp/*
