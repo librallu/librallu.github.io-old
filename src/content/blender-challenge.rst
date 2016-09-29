@@ -18,7 +18,9 @@ La courbe d'apprentissage était trop difficile.
 
 Pour information, voici l'interface du logiciel blender que j'ai utilisé : (source: blender.org documentation du logiciel)
 De quoi prendre peur, non ^^ ?
-![interface de blender](/images/blender-interface.png)
+
+.. image:: /images/blender-interface.png
+  :alt: interface de blender
 
 Il y a quelques temps, je m'étais lancé dans un défi. Cette fois, c'était décidé, j'allais y arriver !
 Ce défi consistait à faire, pendant 30 jours une modélisation sous blender. Je voulais

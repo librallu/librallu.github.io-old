@@ -81,10 +81,11 @@ header {
 
     #split-right {
       margin-top: 40px;
-      background-color: $about-background;
       order: 2;
       text-align: center;
       justify-content: center;
+      border-left: 1px solid #999;
+      border-top: 1px solid #999;
 
       ul {
         width: 200px;

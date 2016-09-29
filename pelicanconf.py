@@ -28,15 +28,13 @@ THEME='dest/kiwi/'
 
 KIWI_EDITO_IMAGE_LINK = SITEURL+'/images/profil.jpg'
 KIWI_EDITO_IMAGE_ALT = 'Luc Libralesso'
-KIWI_EDITO_TITLE = 'A propos'
+KIWI_EDITO_TITLE = 'Bienvenue!'
 KIWI_EDITO_TEXT = """
 <p>Je suis étudiant en informatique/Mathématiques (Master 2 en Recherche Opérationnelle et optimisation Combinatoire).
 </p>
 <p>Sur ce site, je partage mes dernières découvertes/expériences en Informatique et Mathématiques et également à ce qui
 permet de développer un style de vie sain et productif.
 </p>
-
-<p><a href="/cv/">Mon CV</a></p>
 """
 
 # FOR SEO
@@ -61,3 +59,6 @@ PLUGINS = [
 DATE_FORMATS = {
     'FR_fr': '%d %B %Y'
 }
+
+
+HOME_PAGE_NAME = 'Accueil'
