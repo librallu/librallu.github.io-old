@@ -7,7 +7,7 @@ Conclusions sur le Blender Challenge
 :Slug: blender-challenge-conclusions
 :Author: Luc Libralesso
 :Summary: Mes conclusions sur le blender Challenge
-:Image: /images/blender-challenge.png
+:Image: /images/blender30_cover.png
 
 J'ai toujours eu envie de me lancer dans la modélisation 3D. On peut faire beaucoup
 de choses avec. Faire de jolies images, visualiser du contenu de manière beaucoup

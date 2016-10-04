@@ -57,7 +57,7 @@ gulp.task('watch', function() {
 });
 
 gulp.task('publish', function(cb) {
-    exec('make publish && ghp-import output && git push origin gh-pages', function (err, stdout, stderr) {
+    exec('make publish && ghp-import output -b master && git push origin master', function (err, stdout, stderr) {
         console.log(stdout);
         console.log(stderr);
         cb(err);
@@ -100,5 +100,18 @@ gulp.task('cvImg', function() {
 
 gulp.task('cv', ['cvCSS', 'cvHTML', 'cvImg']);
 
-gulp.task('build', ['css', 'js', 'html', 'img', 'ico', 'content', 'user-images', 'cv']);
+gulp.task('polymerBase', function() {
+  return gulp.src(source+"bower_components/**/*")
+  .pipe(gulp.dest(content+"/lib/"));
+});
+
+gulp.task('polymerCustom', function() {
+  return gulp.src(source+"components/**/*")
+  .pipe(gulp.dest(content+"/lib/"));
+});
+
+gulp.task('polymer', ['polymerBase', 'polymerCustom']);
+
+gulp.task('build', ['css', 'js', 'html', 'img', 'ico', 'content', 'user-images', 'cv', 'polymer']);
+gulp.task('build-blog', ['css', 'js', 'html', 'img', 'ico', 'content', 'user-images', 'polymer']);
 gulp.task('default', ['build']);

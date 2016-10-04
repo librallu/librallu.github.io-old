@@ -7,7 +7,7 @@ Prise en main de Three.js
 :Slug: threejs-debut
 :Author: Luc Libralesso
 :Summary: Ma prise en main de Three.js
-:Image: /images/sma1.png
+:Image: /images/sma_cover.png
 
 
 Lors d'un projet pour l'école, j'ai eu l'occasion de tester `threejs <http://threejs.org/>`_.
