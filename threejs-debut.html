@@ -16,6 +16,18 @@
 <meta property="og:image" content="/images/sma_cover.png" />
 
     <script src="/lib/webcomponentsjs/webcomponents-lite.js"></script>
+  <link rel="import" href="/lib/article-plain.html">
+
+  <style>
+    img {
+      width: 100%;
+      height: auto;
+    }
+
+    #article {
+      width: 100%;
+    }
+  </style>
 
 
         <meta name="tags" content="threejs" />
@@ -35,19 +47,14 @@
     </header>
 
     <section id="content">
-    <article class="article-plain" itemscope itemtype="http://schema.org/BlogPosting">
-        <div>
-            <header>
-                <div class="image"><img itemprop="image" alt="illustration de l'article" src=/images/sma_cover.png /></div>
-                <h1 itemprop="name"><a href="/threejs-debut.html">Prise en main de Three.js</a></h1>
-                <span class="article-info">
-                    le <span class="date" itemprop="datePublished" datetime="sam. 16 juillet 2016">sam. 16 juillet 2016</span> par
-                    <span class="author" itemprop="author">                        Luc Libralesso
-</span>
-                </span>
-            </header>
-            <p itemprop="articleBody">
-                <p>Lors d'un projet pour l'école, j'ai eu l'occasion de tester <a class="reference external" href="http://threejs.org/">threejs</a>.
+  <article-plain id="article"
+    title="Prise en main de Three.js"
+    url="/threejs-debut.html"
+    image="/images/sma_cover.png"
+    date="2016,07,16"
+    author="Luc Libralesso"
+  >
+    <p>Lors d'un projet pour l'école, j'ai eu l'occasion de tester <a class="reference external" href="http://threejs.org/">threejs</a>.
 J'ai trouvé cette lib vraiment sympa. Pour ne pas avoir fait beaucoup de programmation 3D, ça a été
 un véritable plaisir de travailler avec. Elle est simple à prendre en main pour un débutant, la doc
 est bien écrite. On peut aussi trouver quelques livres qui en parlent.</p>
@@ -59,9 +66,7 @@ permis de me remettre un peu à blender et de faire un petit truc sympa :</p>
 <p>Un screenshot :</p>
 <img alt="Un exemple de scène de jeu" src="/images/sma1.png" />
 
-            </p>
-        </div>
-    </article>
+  </article-plain>
     </section>
 
     <footer id="main-footer">

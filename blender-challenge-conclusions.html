@@ -16,6 +16,18 @@
 <meta property="og:image" content="/images/blender30_cover.png" />
 
     <script src="/lib/webcomponentsjs/webcomponents-lite.js"></script>
+  <link rel="import" href="/lib/article-plain.html">
+
+  <style>
+    img {
+      width: 100%;
+      height: auto;
+    }
+
+    #article {
+      width: 100%;
+    }
+  </style>
 
 
         <meta name="tags" content="Blender" />
@@ -35,19 +47,14 @@
     </header>
 
     <section id="content">
-    <article class="article-plain" itemscope itemtype="http://schema.org/BlogPosting">
-        <div>
-            <header>
-                <div class="image"><img itemprop="image" alt="illustration de l'article" src=/images/blender30_cover.png /></div>
-                <h1 itemprop="name"><a href="/blender-challenge-conclusions.html">Conclusions sur le Blender Challenge</a></h1>
-                <span class="article-info">
-                    le <span class="date" itemprop="datePublished" datetime="dim. 22 mai 2016">dim. 22 mai 2016</span> par
-                    <span class="author" itemprop="author">                        Luc Libralesso
-</span>
-                </span>
-            </header>
-            <p itemprop="articleBody">
-                <p>J'ai toujours eu envie de me lancer dans la modélisation 3D. On peut faire beaucoup
+  <article-plain id="article"
+    title="Conclusions sur le Blender Challenge"
+    url="/blender-challenge-conclusions.html"
+    image="/images/blender30_cover.png"
+    date="2016,05,22"
+    author="Luc Libralesso"
+  >
+    <p>J'ai toujours eu envie de me lancer dans la modélisation 3D. On peut faire beaucoup
 de choses avec. Faire de jolies images, visualiser du contenu de manière beaucoup
 plus parlante. Un inconvénient cependant est qu'il faut apprendre un logiciel de modélisation.
 C'est pas toujours évident. L'interface est compliquée, il y a beaucoup de vocabulaire nouveau, etc.
@@ -110,9 +117,7 @@ Souvent, quand on regarde l'ensemble des petites marches qu'on a gravies réguli
 rend compte qu'on a fait un grand bout de chemin.</p>
 </div>
 
-            </p>
-        </div>
-    </article>
+  </article-plain>
     </section>
 
     <footer id="main-footer">

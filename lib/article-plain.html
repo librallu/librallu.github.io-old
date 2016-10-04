@@ -1,0 +1,145 @@
+
+<link rel="import" href="/lib/polymer/polymer.html">
+
+<dom-module id="article-plain">
+  <template>
+    <style>
+
+    :host {
+
+    }
+
+    article {
+      width: 100%;
+      background-color: #f7f7f7;
+    }
+
+    article div {
+      font-size: 1.3em;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      max-width: 750px;
+      margin: auto;
+    }
+
+    img {
+      width: 100% !important;
+      height: auto !important;
+    }
+
+    header h1 {
+        display: block;
+        font-size: 1.5em;
+        margin-bottom: 5px;
+    }
+
+    h1 a {
+        color: #454545;
+    }
+
+    .article-info {
+        float: right;
+        margin: 0;
+        height: auto;
+        margin-top: 10px;
+        text-transform: uppercase;
+        color: #656565;
+        font-size: 0.8em;
+    }
+
+    p {
+        text-align: left;
+    }
+
+    @media (max-width:875px) {
+
+        .article-plain {
+            padding-left: 0;
+            padding-right: 0;
+            width: 100%;
+        }
+
+        header {
+          margin-top: 20px;
+        }
+
+        article {
+            max-width: 875px;
+            width: 90%;
+            margin: auto;
+        }
+
+        span {
+            display: block;
+            width: 100%;
+            text-align: center;
+        }
+
+      }
+
+
+      @media (max-width:1300px) {
+
+        .article-info {
+            margin: 0;
+            padding: 0;
+            height: auto;
+        }
+
+        article div {
+            width: 600px;
+        }
+
+      }
+
+    </style>
+
+    <article class="article-plain" itemscope itemtype="http://schema.org/BlogPosting">
+        <div>
+            <header>
+                <img itemprop="image" alt="illustration de l'article" src=[[image]] />
+                <h1 itemprop="name"><a href="[[url]]">[[title]]</a></h1>
+                <span class="article-info">
+                    le <span class="date" itemprop="datePublished" datetime="[[to_iso_date(date)]]">[[_to_human_date(date)]]</span> par
+                    <span class="author" itemprop="author">[[author]]</span>
+                </span>
+            </header>
+
+            <div itemprop="articleBody" class="article-body">
+                <content></content>
+            </div>
+        </div>
+    </article>
+
+
+  </template>
+  <script>
+    Polymer({
+      is: "article-plain",
+      properties: {
+        title: String,
+        url: String,
+        image: String,
+        date: String,
+        author: String
+      },
+      _compute_date: function(s){
+        var a = s.split(',');
+        return new Date(a[0], a[1], a[2]);
+      },
+      _to_human_date: function(d){
+        var tmp = this._compute_date(d);
+        try {
+          return tmp.toLocaleDateString();
+        } catch(e) {
+          return tmp.toDateString();
+        }
+      },
+      _to_iso_date: function(d) {
+        return this._compute_date(d).toISOString();
+      }
+    });
+  </script>

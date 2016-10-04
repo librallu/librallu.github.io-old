@@ -61,6 +61,7 @@
           margin-left: 5%;
           margin-top: 20px;
           padding: 0;
+          max-width: 750px;
         }
 
         div {
@@ -76,7 +77,7 @@
           <img class="image" itemprop="image" alt="illustration de l'article" src=[[image]] />
         </div>
         <h2 itemprop="name">[[title]]</h2>
-        <p itemprop="datePublished" datetime="[[date]]">[[date]]</p>
+        <p itemprop="datePublished" datetime="[[to_iso_date(date)]]">[[_to_human_date(date)]]</p>
       </article>
     </a>
   </template>
@@ -87,7 +88,22 @@
         title: String,
         url: String,
         image: String,
-        date: String
+        date: String,
+      },
+      _compute_date: function(s){
+        var a = s.split(',');
+        return new Date(a[0], a[1], a[2]);
+      },
+      _to_human_date: function(d){
+        var tmp = this._compute_date(d);
+        try {
+          return tmp.toLocaleDateString();
+        } catch(e) {
+          return tmp.toDateString();
+        }
+      },
+      _to_iso_date: function(d) {
+        return this._compute_date(d).toISOString();
       }
     })
   </script>
