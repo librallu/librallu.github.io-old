@@ -1,0 +1,94 @@
+
+<link rel="import" href="/lib/polymer/polymer.html">
+
+<dom-module id="home-article">
+  <template>
+    <style>
+      :host {
+        margin-bottom: 20px;
+        margin-right: 20px;
+        background-color: #f7f7f7;
+        border: 1px solid #ccc;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        transition: box-shadow .5s;
+        display: inline-block;
+        width: 400px;
+      }
+
+
+      :host:hover {
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.39);
+      }
+
+      div {
+          display: inline-block;
+          width: 400px !important;
+          height: 175px;
+          overflow: hidden;
+      }
+
+      .image {
+        position: relative;
+        width: 750px;
+        height: 175px;
+      }
+
+      p {
+          text-transform: uppercase;
+          color: #656565;
+          font-size: 1em;
+          float: right;
+          margin-right: 20px;
+      }
+
+      article {
+          color: #454545;
+      }
+
+      h2 {
+          width: 100%;
+          font-size: 1.2em;
+          margin: 0;
+          padding: 0;
+          margin-top: 10px;
+          text-align: center;
+      }
+
+      @media (max-width:875px) {
+
+        :host {
+          width: 90%;
+          margin-left: 5%;
+          margin-top: 20px;
+          padding: 0;
+        }
+
+        div {
+          width: 100% !important;
+        }
+
+      }
+
+    </style>
+    <a href="[[url]]">
+      <article itemscope itemtype="http://schema.org/BlogPosting" >
+        <div style="background-image=[[image]]">
+          <img class="image" itemprop="image" alt="illustration de l'article" src=[[image]] />
+        </div>
+        <h2 itemprop="name">[[title]]</h2>
+        <p itemprop="datePublished" datetime="[[date]]">[[date]]</p>
+      </article>
+    </a>
+  </template>
+  <script>
+    Polymer({
+      is: 'home-article',
+      properties: {
+        title: String,
+        url: String,
+        image: String,
+        date: String
+      }
+    })
+  </script>
+</dom-module>
