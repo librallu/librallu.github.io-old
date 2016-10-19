@@ -56,9 +56,7 @@ PLUGINS = [
     'render_math'
 ]
 
-DATE_FORMATS = {
-    'FR_fr': '%d %B %Y'
-}
+DEFAULT_DATE_FORMAT = '%Y,%m,%d'
 
 
 HOME_PAGE_NAME = 'Accueil'

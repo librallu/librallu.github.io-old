@@ -57,7 +57,7 @@ gulp.task('watch', function() {
 });
 
 gulp.task('publish', function(cb) {
-    exec('make publish && ghp-import output -b master && git push origin master', function (err, stdout, stderr) {
+    exec('make html && ghp-import output -b master && git push origin master', function (err, stdout, stderr) {
         console.log(stdout);
         console.log(stderr);
         cb(err);
