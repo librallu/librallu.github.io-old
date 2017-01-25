@@ -30,7 +30,7 @@ KIWI_EDITO_IMAGE_LINK = SITEURL+'/images/profil.jpg'
 KIWI_EDITO_IMAGE_ALT = 'Luc Libralesso'
 KIWI_EDITO_TITLE = 'Bienvenue!'
 KIWI_EDITO_TEXT = """
-<p>Je suis étudiant en informatique/Mathématiques (Master 2 en Recherche Opérationnelle et optimisation Combinatoire).
+<p>Je m'appelle <b>Luc Libralesso</b>. Je suis étudiant en informatique/Mathématiques (Master 2 en Recherche Opérationnelle et optimisation Combinatoire).
 </p>
 <p>Sur ce site, je partage mes dernières découvertes/expériences, principalement a propos d'algorithmique, de génération
 procédurale et de développement.
