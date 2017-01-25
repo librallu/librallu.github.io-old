@@ -37,6 +37,9 @@ procédurale et de développement.
 </p>
 """
 
+DIRECT_TEMPLATES = ['blog', 'experiments', 'apropos']
+PAGINATED_DIRECT_TEMPLATES = ['blog', 'experiments', 'apropos']
+
 # FOR SEO
 BLOG_DESCRIPTION = "Page personnelle de Luc Libralesso"
 
