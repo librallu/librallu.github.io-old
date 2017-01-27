@@ -2,7 +2,7 @@ Conclusions sur le Blender Challenge
 ####################################
 
 :Date: 2016-05-22 10:20
-:Category: Blender Challenge
+:Category: articles
 :Tags: Blender, 30days, Challenge
 :Slug: blender-challenge-conclusions
 :Author: Luc Libralesso

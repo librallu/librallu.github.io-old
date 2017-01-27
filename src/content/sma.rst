@@ -2,7 +2,7 @@ Prise en main de Three.js
 #########################
 
 :Date: 2016-07-16 18:00
-:Category: Javascript
+:Category: experiments
 :Tags: threejs, jeu, stratégie
 :Slug: threejs-debut
 :Author: Luc Libralesso
