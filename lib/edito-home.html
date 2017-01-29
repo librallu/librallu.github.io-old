@@ -1,0 +1,50 @@
+
+<link rel="import" href="/lib/polymer/polymer.html">
+
+<dom-module id="edito-home">
+  <template>
+    <style>
+
+    :host {
+      justify-content: center;
+      display: flex;
+    }
+
+    .edito-article {
+      width: 500px;
+      padding: 10px;
+    }
+
+    .content-wrapper {
+      padding: 10px;
+      text-align: justify;
+    }
+
+    @media (max-width:875px) {
+      .edito-article {
+        width: 80%;
+        min-width: 310px;
+      }
+
+      :host {
+        justify-content: center;
+      }
+    }
+
+
+    </style>
+
+    <article class="edito-article">
+      <h1>[[titletext]]</h1>
+      <div class="content-wrapper"><content></content></div>
+    </article>
+
+  </template>
+  <script>
+    Polymer({
+      is: "edito-home",
+      properties: {
+        titletext: String
+      }
+    });
+  </script>

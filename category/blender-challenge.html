@@ -14,6 +14,7 @@
     <meta property="og:url" content="/" />
     <meta property="og:image" content="//images/profil.jpg" />
 
+  <link rel="import" href="/lib/edito-home.html">
   <link rel="import" href="/lib/home-article.html">
 
 
@@ -21,55 +22,56 @@
 
 <body>
 
-    <header id="banner">
-        <h1><a href="/">Luc Libralesso</a></h1>
+    <!--
+    image="/images/profil.jpg"
+    altimg="Luc Libralesso"
+    -->
 
-        <ol id="breadcrumbs">
-<li><span class="current" >Accueil</span></li>
-        <ol>
+    <header id="banner">
+        <a href="/apropos.html" class="banner-left">A PROPOS</a>
+        <a href="/cv/" class="banner-left">CV</a>
+        <a href="/" alt="accueil">
+          <img src="/images/profil.jpg" alt="Luc Libralesso"/>
+        </a>
+        <a href="/experiments.html" class="banner-right">EXPERIMENTS</a>
+        <a href="/blog.html" class="banner-right">BLOG</a>
+
     </header>
 
     <section id="content">
 
-        <div id="edito">
-            <div>
-                <img src="/images/profil.jpg" alt="Luc Libralesso" />
-                <div>
-                    <h1>Bienvenue!</h1>
-                    
-<p>Je suis étudiant en informatique/Mathématiques (Master 2 en Recherche Opérationnelle et optimisation Combinatoire).
+  <div id="white-back">
+
+    <edito-home titletext="Bienvenue!">
+      
+<p>Je m'appelle <b>Luc Libralesso</b>. Je suis étudiant en informatique/Mathématiques (Master 2 en Recherche Opérationnelle et optimisation Combinatoire).
 </p>
 <p>Sur ce site, je partage mes dernières découvertes/expériences, principalement a propos d'algorithmique, de génération
 procédurale et de développement.
 </p>
 
-                </div>
-            </div>
-        </div>
+    </edito-home>
 
-    <div id="post-list">
-        <div>
-            <home-article
-              title="Conclusions sur le Blender Challenge"
-              url="/blender-challenge-conclusions.html"
-              image="/images/blender30_cover.png"
-              date="2016,05,22"
-            ></home-article>
-        </div>
-
-        <div id="paginator">
-        </div>
-
-
+    <div>
+      <h1>Derniers articles du blog</h1>
+      <div id="post-list">
+          <div>
+              <home-article
+                title="Conclusions sur le Blender Challenge"
+                url="/blender-challenge-conclusions.html"
+                image="/images/blender30_cover.png"
+                date="2016,05,22"
+              ></home-article>
+          </div>
+      </div>
     </div>
+
+  </div>
+
 
     </section>
 
     <footer id="main-footer">
-
-        <ul id="link-list">
-            <li><a href="/cv/">Mon CV</a></li>
-        </ul>
 
         <div id="social-list">
 
