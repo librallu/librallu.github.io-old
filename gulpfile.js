@@ -3,7 +3,6 @@ gulp = require('gulp');
 
 var plugins = require('gulp-load-plugins')();
 var browserSync = require('browser-sync').create();
-var jasmine = require('gulp-jasmine-phantom');
 
 gulp.task('serve', ['css', 'js', 'html'], function() {
     browserSync.init({
@@ -81,6 +80,14 @@ gulp.task('publish', function(cb) {
   });
 });
 
+gulp.task('copy-fonts', function(cb) {
+    exec('cp -r pelican-kiwi-theme/src/css/font/ output/theme/css/', function (err, stdout, stderr) {
+        console.log(stdout);
+        console.log(stderr);
+        cb(err);
+  });
+});
+
 gulp.task('cvCSS', function(cb) {
     return gulp.src(source_blog+"cv/cv.scss")
     .pipe(plugins.sass())
@@ -129,7 +136,7 @@ gulp.task('polymerCustom', function() {
 
 gulp.task('polymer', ['polymerBase', 'polymerCustom']);
 
-gulp.task('build', ['css', 'js', 'html', 'img', 'ico', 'content', 'user-images', 'cv', 'polymer']);
+gulp.task('build', ['css', 'js', 'html', 'img', 'ico', 'content', 'user-images', 'copy-fonts', 'cv', 'polymer']);
 gulp.task('build-blog', ['css', 'js', 'html', 'img', 'ico', 'content', 'user-images', 'polymer']);
 gulp.task('default', ['devenv']);
 gulp.task('build-design', ['css', 'js', 'html'])
