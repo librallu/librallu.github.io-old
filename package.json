@@ -5,22 +5,24 @@
   "main": "gulpfile.js",
   "dependencies": {},
   "devDependencies": {
+    "browser-sync": "latest",
+    "eslint": "^3.14.1",
+    "eslint-config-google": "^0.7.1",
     "gulp": "latest",
     "gulp-autoprefixer": "latest",
+    "gulp-clean-css": "latest",
+    "gulp-concat": "latest",
     "gulp-cssbeautify": "latest",
     "gulp-csscomb": "latest",
     "gulp-csso": "latest",
     "gulp-gh-pages": "latest",
     "gulp-imagemin": "latest",
     "gulp-load-plugins": "latest",
+    "gulp-manifest": "latest",
     "gulp-rename": "latest",
     "gulp-sass": "latest",
     "gulp-uglify": "latest",
-    "gulp-uncss": "latest",
-    "gulp-manifest": "latest",
-    "browser-sync": "latest",
-    "gulp-concat": "latest",
-    "gulp-clean-css": "latest"
+    "gulp-uncss": "latest"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

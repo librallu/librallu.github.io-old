@@ -2,6 +2,18 @@
 gulp = require('gulp');
 
 var plugins = require('gulp-load-plugins')();
+var browserSync = require('browser-sync').create();
+var jasmine = require('gulp-jasmine-phantom');
+
+gulp.task('serve', ['css', 'js', 'html'], function() {
+    browserSync.init({
+        server: "./output/"
+    });
+    gulp.watch(source+"css/*.scss", ['watch-serve']);
+    gulp.watch(source+"html/*.html", ['watch-serve']);
+    gulp.watch(source+"js/*", ['watch-serve']);
+});
+
 var exec = require('child_process').exec;
 
 var source = './pelican-kiwi-theme/src/';
@@ -50,10 +62,15 @@ gulp.task('html', function() {
 
 /** WATCH PART */
 gulp.task('watch', function() {
-    gulp.watch(source+"css/*.less", ['css']);
+    gulp.watch(source+"css/*.scss", ['css']);
     gulp.watch(source+"html/*.html", ['html']);
     gulp.watch(source+"images/*.{png,jpg,jpeg,gif,svg,ico}", ['img', 'ico']);
     gulp.watch(source+"js/*", ['js']);
+
+});
+
+gulp.task('watch-serve', ['css', 'js', 'html'], function() {
+    browserSync.reload();
 });
 
 gulp.task('publish', function(cb) {
@@ -114,4 +131,7 @@ gulp.task('polymer', ['polymerBase', 'polymerCustom']);
 
 gulp.task('build', ['css', 'js', 'html', 'img', 'ico', 'content', 'user-images', 'cv', 'polymer']);
 gulp.task('build-blog', ['css', 'js', 'html', 'img', 'ico', 'content', 'user-images', 'polymer']);
-gulp.task('default', ['build']);
+gulp.task('default', ['devenv']);
+gulp.task('build-design', ['css', 'js', 'html'])
+
+gulp.task('devenv', ['serve', 'watch'])
