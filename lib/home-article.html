@@ -27,10 +27,16 @@
           overflow: hidden;
       }
 
+      .image-div {
+          width: 750px;
+          height: 175px;
+          background-color: #777;
+          background-size: cover;
+          background-image: url('/images/map-cover.png');
+      }
+
       .image {
-        position: relative;
-        width: 750px;
-        height: 175px;
+        display: none;
       }
 
       p {
@@ -73,7 +79,7 @@
     </style>
     <a href="[[url]]">
       <article itemscope itemtype="http://schema.org/BlogPosting" >
-        <div style="background-image=[[image]]">
+        <div class="image-div" style="background-image: url('[[image]]')">
           <img class="image" itemprop="image" alt="illustration de l'article" src=[[image]] />
         </div>
         <h2 itemprop="name">[[title]]</h2>
